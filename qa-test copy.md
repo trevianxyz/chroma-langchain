@@ -1,0 +1,1344 @@
+speaker_name,text
+Alexandra Downing,Currently I am the competitive robotics program manager in my district.
+Alexandra Downing,"So I am connected to 230 teams across our district and I help they're all competitive teams from third grade all the way to 12th grade between Vex, IQ and VRC."
+Alexandra Downing,So managing that and working with the teams and communicating is part of my job.
+Alexandra Downing,And it would be very helpful if there was some sort of platform that I could use with Vex that could help me just communicate a little bit easier about the Vex stuff that we do because we are going to be adding to enhance our program.
+Alexandra Downing,We are also going to be adding vex one to three and vex go.
+Alexandra Downing,Starting with some camps this summer.
+Alexandra Downing,So I would really like to see that enhance our program.
+Alexandra Downing,I love Vex and I love what you guys have done.
+Alexandra Downing,I just think it might be a little bit easier to help us with that as well as hopefully finding a way where I could get some more training for my coaches because right now it's hard to have that training.
+Alexandra Downing,"I just joined PD Plus, so I'm hoping I could look at that community and build some more information regarding for us because we have such a big program and we host up to like this year we hosted about 17 tournaments as well as we hosted a state tournament."
+Alexandra Downing,And then next year we're going to be hosting some signature events.
+Alexandra Downing,So sometimes purchasing is a little bit hard because we have such a big district for tournaments as well as for our teams.
+Alexandra Downing,"I do order through a purchase order, but sometimes it's just hard to just buy individual stuff."
+Alexandra Downing,"So maybe having a little bit more access to that, even if it's just through me and to help manage my district because it's so big."
+Alexandra Downing,"Again, I love vaccine itself."
+Alexandra Downing,"In regards to the lessons you guys have started creating, right now, I'm trying to just help my teachers understand that more and get some training."
+Alexandra Downing,"So either train me so I could train them or have you guys come out would be very beneficial because right now I just want to make sure that my coaches feel that they can teach robotics, Stem, computer science to all grade levels, and I just want to give them that confidence."
+Alexandra Downing,"And one of the things I do enjoy is that this is my first time coming to the conference, so I'm really excited to learn some more ideas and to build on the program."
+Alexandra Downing,And I have a feeling my program is going to continue growing.
+Alexandra Downing,"But I think one of my success stories is I mean, I am a robotics mom, I'm a robotics coach and I'm a robotics program manager."
+Alexandra Downing,And I've seen a lot of growth within a lot of our students.
+Alexandra Downing,And one of my favorite things is my own kids.
+Alexandra Downing,They are growing up in the district that I work at through robotics.
+Alexandra Downing,"It was my daughter who started third grade, who's like, mom, I really want to try robotics."
+Alexandra Downing,"And I'm like, okay."
+Alexandra Downing,"And at that time, I was working at a different school, and they asked me to start a robotics club at their school."
+Alexandra Downing,"So her and I actually started our robotics journey together, and I was amazed on how much it changed her."
+Alexandra Downing,She gained confidence in herself.
+Alexandra Downing,She loves robotics now.
+Alexandra Downing,She feels confident talking to people.
+Alexandra Downing,She's been an MC at a tournament.
+Alexandra Downing,She's been a head ref at a tournament.
+Alexandra Downing,"Now she's been on a robotics team, and if it wasn't for robotics, I don't know if she would have been as successful as she is now as a person."
+Alexandra Downing,She is currently now 17 years old and still is part of the robotics world.
+Alexandra Downing,"She enjoys mentoring at elementary schools, and one of her stories is, mom, I just want to help the kids learn about robotics and feel comfortable with it, just like it helped me be comfortable with who I am."
+Alexandra Downing,And I see that as a big win for us.
+Alexandra Downing,"My son, who saw his older sister go through robotics starting at age kindergarten, he's like, oh my gosh, mom, I want to do that too."
+Alexandra Downing,"And now he is currently in robotics, and this is his third world robotics attendance."
+Alexandra Downing,And he also has learned a different type of robotics in perseverance and managing his emotions and working with the team.
+Alexandra Downing,And both of them have gained so much from this that I am so happy to see their growth.
+Alexandra Downing,"And then one of my favorite stories is, I had a student who had just moved from Mexico who was a second language learner at my school, and he asked to join robotics, and I said yes."
+Alexandra Downing,And so he was learning English at the same time he was in my robotics club.
+Alexandra Downing,"And by the end of the season, he was able to communicate with coaches in the interview, in English, in his second language."
+Alexandra Downing,"And he was so excited after his first interview and came up to me goes, Mr."
+Alexandra Downing,"Downey, and I spoke English."
+Alexandra Downing,"I said it, I said what I wanted to."
+Alexandra Downing,And it was all about robotics and just thinking about him and his journey.
+Alexandra Downing,"And now he is currently in middle school, still in robotics, and is fluent in English and Spanish, and is starting to help younger kids grow."
+Alexandra Downing,"So, some of my favorite stories to share."
+Alexandra Downing,Yeah.
+Alexandra Downing,"For me, one of the lessons that I struggled with at the beginning was the engineering notebook."
+Alexandra Downing,It was a different type of mindset and writing.
+Alexandra Downing,"And so here I am going in thinking, oh, I could do this and teach them."
+Alexandra Downing,And the kids just struggled.
+Alexandra Downing,"They couldn't figure out, well, what do you mean, a problem or a solution?"
+Alexandra Downing,Why do we have to write this down?
+Alexandra Downing,"And just the idea and the concept of writing down their process and step by step, it just took a little bit longer for my elementary students to do it, as well as because all my students were second language learners."
+Alexandra Downing,So writing in English in a notebook about robotics is very difficult for them.
+Alexandra Downing,"So I did not take that into consideration when I started my lesson, and that was a struggle."
+Alexandra Downing,"Now I have a notebook template to help them, to guide them, especially for those newcomers that really just need some of those sentences as they're learning the English language to write about their journey and what they're building."
+Alexandra Downing,And what I've learned from them is they tell me I need time to translate it in my head first before I can write it down.
+Alexandra Downing,"And that is what I always plan my lessons on around now, is giving them time to do a translation because that's what they need."
+Alexandra Downing,That's what will help them be able to become successful as they start their world botic experience.
+Alexandra Downing,Good questions.
+Alexandra Downing,"Made me think, I like it."
+Alexandra Downing,I got to push that.
+Zach Kavanaugh,Thanks.
+Zach Kavanaugh,"All right, here we go."
+Zach Kavanaugh,Yep.
+Zach Kavanaugh,My name is Zach Kavanaugh.
+Zach Kavanaugh,I teach at Duchin.
+Zach Kavanaugh,"The Academy of the Sacred Heart in Houston, Texas."
+Zach Kavanaugh,"I've been teaching for about three years now, and we are currently using Vex at the school."
+Zach Kavanaugh,We use vex EXP in the classroom.
+Zach Kavanaugh,"In the high school, we use Vex V Five in the competition space."
+Zach Kavanaugh,We have a competitive team for the high school as as well.
+Zach Kavanaugh,"We have an intermediate school team which uses Vex IQ, and Vex IQ is used in the classroom and in the competition space."
+Zach Kavanaugh,"And I believe we also have Vex one, two, three for the elementary school as well."
+Zach Kavanaugh,And it's been a great experience so far.
+Zach Kavanaugh,So our goals with Stem education so far are to normalize Stem education and kind of get acceptance.
+Zach Kavanaugh,"For Stem education, we teach at an all girls school, and we also teach in an affluent area, and so most of the students are interested in sports, which is fantastic, and it's a great thing for the kids to do."
+Zach Kavanaugh,We also want to try to expand the kids awareness and competitive nature into robotics.
+Zach Kavanaugh,And sometimes we have sometimes a little bit of a challenge helping trying to get kids into robotics.
+Zach Kavanaugh,The kids that are in it love it.
+Zach Kavanaugh,They do it all the time.
+Zach Kavanaugh,They're there every day.
+Zach Kavanaugh,They really enjoy it.
+Zach Kavanaugh,"And so we just try to build that awareness and that acceptance, and that normality, if you will, of robotics at the school."
+Zach Kavanaugh,"That in terms of resources for teachers, we're pretty well covered with EXP Plus."
+Zach Kavanaugh,"The lower school, upper school, middle school, all have access to Vex PD Plus, which has been really helpful for everyone."
+Zach Kavanaugh,"And there's also the additional YouTube videos where we can go as well that are also serve as libraries for, I guess, education, for educating educators, if you will."
+Zach Kavanaugh,"I think our biggest challenge is kind of spreading awareness and spreading I use the term acceptance, but I don't know if that's the appropriate term."
+Zach Kavanaugh,"We just want Stem to be as accessible and kind of quote unquote normal, if you will, as playing soccer or softball or anything else."
+Zach Kavanaugh,"And that's kind of the thing that, personally, I see that I feel like I struggle with, because I'm also the Vex coach as well."
+Zach Kavanaugh,So I see that.
+Zach Kavanaugh,"And just one of the things that I think we can work on, I'm not really sure what Vex could provide that would make it easier."
+Zach Kavanaugh,Vex has kits with place mats on them so the kids know where to put the parts.
+Zach Kavanaugh,"We have Vex PD Plus and Stem labs and Vex activities that go along with Stem labs that are very, very helpful and very involved and also help the kids learn."
+Zach Kavanaugh,"And those are all extremely useful and helpful resources that we've been using to help us just generate materials for our classes and also help kids develop understanding or students develop understanding of concepts in computer science, concepts in engineering, design process, and concepts in age appropriate robotics."
+Zach Kavanaugh,"So I would say so far, Vex has been doing an incredible job and has been very helpful right off the bat."
+Zach Kavanaugh,I don't think there's anything that I would change just because my experience has been so positive so far.
+Zach Kavanaugh,"And I feel like a lot of the class materials have been very coherent cohesive and have also blended well from one aspect to the next, one chapter, one module to the next."
+Zach Kavanaugh,So there's been really good cohesion there.
+Zach Kavanaugh,The only thing that I would want to do just as a robotics coach and also a teacher in the classroom is maybe have some hands on experience where maybe it's just a bunch of teachers sitting around and we just build the robots and program them and just kind of see what we can do and try a few things out.
+Zach Kavanaugh,"I do the projects with the kids, so I'm pretty familiar with the coding, pretty familiar with the three wire buttons and different parts like the visual sensors and the claws and extra motors and stuff like that."
+Zach Kavanaugh,"I just thought it would be interesting and fun to see how their adults approved, receive it and see what kind of insight I could get from the people who actually make the product."
+Zach Kavanaugh,That's it.
+Zach Kavanaugh,Thanks.
+Speaker Valdez,"Hi, I'm Erin Valdez and I work as an instructional technology specialist in Northeast ISD in San Antonio."
+Speaker Valdez,"I have been teaching for 13 years, and twelve of those have included robotics."
+Speaker Valdez,"I began in a school that was an FRC, so first robot competition, the large metal robots."
+Speaker Valdez,"I had no idea what I was doing, but I had kids who were passionate and we took off and things were great."
+Speaker Valdez,"But I left the high school world and went on to middle school and the district I moved to, Northeast ISD used FLL robots at elementary and middle school."
+Speaker Valdez,"And after my first year there, I felt that it was really necessary for us to change and challenge ourselves and our students."
+Speaker Valdez,"So we moved over to FTC, kind of mid level metal robots."
+Speaker Valdez,But the cost was so high that when it came time to replace robots for our district and I moved into my role as an instructional technology specialist.
+Speaker Valdez,I did a lot of research and ended up reaching out to the Rec Foundation and asking a bunch of questions and was able to meet with some people who sold us on the diversity that is offered through Vex IQ.
+Speaker Valdez,So we now have Vex IQ teams for fourth through 8th graders and we have 48 teams in our district.
+Speaker Valdez,And we're working to expand that to where every elementary and middle school campus would have a Vex IQ team and compete annually in our local qualifier as well as qualifiers held in the area.
+Speaker Valdez,This year we are blessed enough to have two middle school teams attending Worlds.
+Speaker Valdez,"So in the three years that we've been doing Vex robotics, we've had teams at Worlds for two years, which is absolutely amazing."
+Speaker Valdez,We are working to build more within our district.
+Speaker Valdez,So right now we are viqc competitive at fourth through 8th grade at campuses that have chosen to be a part of this.
+Speaker Valdez,Our goal is to expand that so that every campus has the opportunity and has a team so that all of our students are given that chance.
+Speaker Valdez,I am actually going to be able to focus a little more on robotics to help grow it within our district.
+Speaker Valdez,"So that we are going to drop down in the elementary to have, at the beginning, a club for one, two, three, go."
+Speaker Valdez,Sorry Vex.
+Speaker Valdez,"One, two, three."
+Speaker Valdez,"And then our goal is to move that into the classroom at elementary so that they are utilizing the robots in stations and to draw connections in education in their core content, as in the competitive side as they grow into fourth and fifth graders and on into middle school."
+Speaker Valdez,"Currently, our district also has V five in the J ROTC programs at some of our high schools."
+Speaker Valdez,"Again, a goal is to expand so that every high school has a VRC team."
+Speaker Valdez,"So again, those students have that opportunity even if they aren't in an engineering class or in JROTC."
+Speaker Valdez,They can come and work on things that they are passionate about.
+Speaker Valdez,"With Stem, our district is working to expand Stem labs where our students go during specials time or like on rotation every few days."
+Speaker Valdez,"Within those Stem labs, we will eventually be adding Vex one, two, three and then hopefully moving into the goes so that our students have that ability to explore and expand their knowledge and again help them grow into competitive robotic students so that they are able to compete and grow that ability to fail and thrive."
+Speaker Valdez,And the grit that many of the students have talked about while we were here at the Vex Educators Conference.
+Speaker Valdez,"For us, growing our Stem and robotics programs is really coming down to time and people, the people resources."
+Speaker Valdez,Getting teachers to buy in is difficult with everything that has been put on them since over the past few years.
+Speaker Valdez,"And so our teachers who are participating, our teachers who are robotics coaches, our teachers who bring engineering, technology, science, math as a concept into their classroom and drawing those connections and making Stem more than just a thing that is done, sometimes those teachers are all in."
+Speaker Valdez,"And unfortunately, we may only have one or two per campus."
+Speaker Valdez,The goal of having campuses filled with teachers who are all in on Stem and all in on cross curricular and incorporating the technology so that it feels seamless like it does in our everyday lives is something that we are really working towards.
+Speaker Valdez,"And a lot of this just comes from support, which thankfully, our district has individuals, not as many as we would like, but individuals who are able to come in and help with instructional technology and help grow teacher comfort and student ability so that we do move forward."
+Speaker Valdez,"In a district as large as ours, there's also the financial constraint, figuring out where and how to purchase and keep up with items, especially, again, past few years, lots of turnover."
+Speaker Valdez,So keeping things organized and put together so that teachers who take someone else's place are able to pick things up and continue moving on financially.
+Speaker Valdez,It's just kind of a slow roll purchasing of items.
+Speaker Valdez,We're going to buy a few things this year and buy a few things next year.
+Speaker Valdez,"And as things go, we'll buy more and more and keep it on kind of a rotation to help keep things working and running smoothly in our classrooms and implementation better."
+Speaker Valdez,"I mean, that's a hard question, but that flipping that magic switch that helps connect things for people and helps bring people together over Stem and what Stem is and how it works and why it is the future for our students, honestly, would be the biggest thing."
+Speaker Valdez,I see what has happened at other districts.
+Speaker Valdez,Being at the Vex Educators Conference has been amazing and inspiring.
+Speaker Valdez,"To tell me that I'm headed in the right place, I'm pushing in the right places with our district, but I've got to get a little higher and get a little more so that our kind of top down approach can come to fruition, maybe coming from Rec or Vex."
+Speaker Valdez,Some help in explaining robotics to people who are a little more removed from the classrooms and help them understand why investing in this aspect of the future is so big.
+Speaker Valdez,"Large districts, robots cost a lot of money."
+Speaker Valdez,PD plus would cost a lot of money.
+Speaker Valdez,So bringing that to light and helping our powers that be understand more.
+Speaker Valdez,"So maybe if there's resources or something in it and it could be that I've missed them, but resources to help explain it at a grander scale to the people who hold the purse strings and can help us make these things real."
+Speaker Valdez,"I love the way again, for us, IQ is what we use, but I love the way the kits are organized, the parts, posters, everything that's there and going through not even having to have PD plus, but just going through Stem labs and items like that help people who aren't savvy in technology or engineering or Stem get started."
+Speaker Valdez,"And the resources, the forums, everything that is available is really amazing because you can find the answer."
+Speaker Valdez,"And if you can't, if you truly are struggling and unable to find what you're looking for, you can ask and someone has the answer and is willing to share it with you."
+Speaker Valdez,"There are times that I and some of the coaches in my campuses, we have felt like we are asking the dumb question, and there's another person who says, hey, I had that question too, and it makes us feel better."
+Speaker Valdez,And sometimes there's someone from Vex who answers us.
+Speaker Valdez,"Sometimes someone from Rec, someone someone who's a coach, sometimes a student from another team will answer our question."
+Speaker Valdez,And it's awesome.
+Speaker Valdez,They'll send us a resource.
+Speaker Valdez,They'll answer based on how their team has done it for ten years.
+Speaker Valdez,They'll answer with whatever they can and help guide.
+Speaker Valdez,"So if you're ever stuck, you're able to get that assistance that you need and move forward and help your kids grow and continue to do all of the things."
+Speaker Valdez,"I also love that really, everything's easy to get started, at least one, two, three, go."
+Speaker Valdez,"And IQ, the ones that we have experience with, our elementary kids are able to jump in and take off, and sometimes without explanation, we can put things out on a table and they figure it out."
+Speaker Valdez,So it is really amazing to see students thrive and gravitate to something that a lot of adults are sometimes afraid of.
+Speaker Valdez,"So if nothing else, you've got a bundle of one, two, three s or goes in your classroom, get them out and just see what the kids do with them."
+Speaker Valdez,"So giving them that exploration time and learning from them, there's nothing wrong with that."
+Speaker Valdez,It's actually one of my favorite things.
+Speaker Valdez,"Every time I join a robotics club for their practice, I learn something from the kids as much as I think they learn from me."
+Speaker Valdez,"Job, we have found a shift, a major shift in behavior for students who join our robotics clubs."
+Speaker Valdez,Suddenly they're proud in the hallway.
+Speaker Valdez,They're a part of something.
+Speaker Valdez,They've gained a new strength and ability.
+Speaker Valdez,"And you can see it in the way they walk, the way they approach others, the way they talk with their teachers, and the way they're proud to just say I am on the robotics team, or we did this, or I built this, and show people pictures, show people what they're doing and talk about these things."
+Speaker Valdez,"I've also heard where teachers have had kids in class connect something they're talking about in the classroom to what they're doing in robotics club and how it would affect the robot, or how using a robot would affect what they're talking about in class."
+Speaker Valdez,So seeing them draw these connections on their own is just absolutely amazing.
+Speaker Valdez,"It inspires our teachers to want to do more, to want to figure things out and to offer more to our students and try to find ways to get it into the curriculum and into their daily lives."
+Speaker Valdez,"One last thing to add that I maybe have missed or haven't seen available is an ability to rent or borrow kits, borrow some V five S or some Vex Goes, or one two, three S, and have a day of play for teachers so that they can see."
+Speaker Valdez,"And then we're able to move forward with requests for money, for purchases, showing pictures and things when we're sending off for grants and items."
+Speaker Valdez,"Because there are times that buying that one item just isn't possible, especially for some of our campuses who don't have extra funds, don't have things available to them."
+Speaker Valdez,And writing a grant for one robot is not super exciting.
+Speaker Valdez,"So I do wonder or if it is even possible to rent or check out like a lending library like some of the schools have talked about, but from Vex and say hey, I would like to borrow this item."
+Speaker Valdez,For the next six weeks and do play days for teachers so that they're able to experience and see how things work and the processes that the kids would go through and give them some experience so that they don't feel as overwhelmed when robots arrive in their classroom.
+Christine Carter,I hello.
+Christine Carter,My name is Christine Carter.
+Christine Carter,"I live in and work in DC, washington DC public schools as a computer science education from pre K to 8th grade."
+Christine Carter,I teach Stem.
+Christine Carter,And I use Legos for my robotics.
+Christine Carter,"At this time, I do not use Vex."
+Christine Carter,"However, I have received a grant to purchase robotics and this upcoming school year and the next two years I have invested to purchase Vex IQ, Vex, Go and Vex."
+Christine Carter,"One, two, three."
+Christine Carter,"I currently had a grant that was given to our school from within the CTE program, career Tech program, and they pre purchased V Five."
+Christine Carter,"Because we had no background experience at the school and no technology background experience at this school, I consider that was too high for our school."
+Christine Carter,"We still have those products, the V Five at our school."
+Christine Carter,"They're just sitting there at the moment because again, this is our first time even having technology at our school."
+Christine Carter,My goals with Stem education is to be able to reach everyone in my school.
+Christine Carter,All students come through me.
+Christine Carter,"I work as a special teacher, someone like the music teacher, PE teacher."
+Christine Carter,All the students in our school rotate through me.
+Christine Carter,"My goal is to make sure all students are touched, all students see, and all students are growing with technology."
+Christine Carter,Because I see Vex as a whole program and it's all inclusive to me.
+Christine Carter,"I expect us to eventually go to state competitions first, or just school to school competitions."
+Christine Carter,I do want to see us at the World's bex Go.
+Christine Carter,This is my first time ever.
+Christine Carter,I think it's exciting just to see all the students involved and hopefully in our community again.
+Christine Carter,It was a slow socioeconomic.
+Christine Carter,Hope we get this opportunity to even see how Vex is going to grow with them.
+Christine Carter,From pre K all the way up to 8th grade.
+Christine Carter,"What will take me to the next level is I would love to have a person with me, especially in the first time at my school with me or with a group of myself and a group of students, just to get us started with the hands on especially."
+Christine Carter,It was my first time having V Five.
+Christine Carter,"I was apprehensive and showing how the kids do the put together, the robot even."
+Christine Carter,It was piece by piece.
+Christine Carter,I looked at videos.
+Christine Carter,I still wasn't properly training the kids.
+Christine Carter,"I didn't even know how the brains work, how do robots work, how to make all this move."
+Christine Carter,I would have felt more confident if I had someone with me.
+Christine Carter,I do had a project lead the way.
+Christine Carter,It was on virtual learning.
+Christine Carter,Virtual learning did not help me.
+Christine Carter,"That's not the type of learner that I am having someone again point out what pieces by piece where they go through, because I'm by myself."
+Christine Carter,So I do not have someone with me to guide me or to help me to bounce off ideas with.
+Christine Carter,And that's what I would like.
+Christine Carter,"Just for me, I would really like to go to another school district or travel to another school district to see how Vex is working in your classroom."
+Christine Carter,"Since I live in Washington, DC."
+Christine Carter,"I can travel 2 hours away, such as your Philadelphia, Pennsylvania, school or area."
+Christine Carter,That would be great for me to see it in action.
+Christine Carter,"Okay, thank you."
+Christine Carter,Yes.
+Christine Carter,"I don't have that kind of information because I'm just starting, and I don't have I'm not having been using them."
+Christine Carter,But I want to go back to the question of what information would I would need to help me to be a better teacher.
+Christine Carter,"I do need some information on background, what is engineering and how it relates to an elementary environment in a middle school environment."
+Christine Carter,"Well, I did find a box of EDR in my school."
+Christine Carter,"I didn't know what it was at first, so we tried to use that to put together."
+Christine Carter,"However, it ended up having some of the boys throwing the pieces, and these are middle school kids."
+Christine Carter,I don't understand why what are you throwing in pieces?
+Christine Carter,Knowing how much it costs and knowing how expensive it is metal.
+Christine Carter,It could hurt someone.
+Christine Carter,That was the only thing that was in Brahman.
+Christine Carter,I was in change.
+Christine Carter,Thank you.
+Jeff Long,My name is Jeff Long.
+Jeff Long,"I teach at Stevenson Middle School down in San Antonio, Texas."
+Jeff Long,I've been teaching for five years.
+Jeff Long,"Prior to that, I was 24 years in the military as an army engineer."
+Jeff Long,"Right now, I teach Stem and Engineering."
+Jeff Long,"So I have a stem future lab course, and then I have a applied engineering course."
+Jeff Long,That's where we teach the the Vex IQ.
+Jeff Long,"Right now, we're doing Vex IQ you for about three weeks."
+Jeff Long,So we're just looking at how do we incorporate the stuff from PD into our learning management system?
+Jeff Long,And I am the only one in the district right now that's doing that.
+Jeff Long,"So I'm taking the stuff from Vexpd and putting it into our LMS, which is schoology."
+Jeff Long,And we're starting off with kind of Introduction to Robotics.
+Jeff Long,Then we do Introduction to Coding.
+Jeff Long,Then we go into that tractor pool.
+Jeff Long,Then we go into gear ratio.
+Jeff Long,Then we go into the Tug of War.
+Jeff Long,"Then we do a forklift build, and then we do some forklift competition stuff with the kids."
+Jeff Long,"And so really like, the system a lot of information kind of information overload when we go into PD and just learned about the Vex VR stuff."
+Jeff Long,So that's going to be interesting to try to incorporate.
+Jeff Long,"And that's going to kind of assist us with rolling out the IQ to some of these other schools, because one of our big challenges, of course funding and then the number of kits that we have."
+Jeff Long,"So if you have anything over three students on a kit, they kind of lose interest a little bit, because really, it's like a two student kit."
+Jeff Long,So just trying to get the kids keep the kid engaged while they're learning.
+Jeff Long,The Vxvr is going to be really great on that.
+Jeff Long,So our goals with Stem education is to kind of keep it on where we're at right now.
+Jeff Long,So about three weeks for the Vex IQ.
+Jeff Long,"One of our other future goals is to try to get into the competitions, and so if we could do it with Vex IQ, that would be okay."
+Jeff Long,"But I kind of want to go with the Vexr X or RQ, the more advanced system that the high schools have."
+Jeff Long,"Just trying to figure out how we're going to do that, how we're going to get the district to buy into."
+Jeff Long,That is going to be the challenge.
+Jeff Long,So I think one of the biggest issues is kind of the funding.
+Jeff Long,"So just the number of tips that we have per student, like I had said before, another issue is how do you incorporate that transition from block coding to Python?"
+Jeff Long,"I find that especially at the level that we're at, middle school level, 8th graders, they have a lot of trouble kind of going from block coding to Python."
+Jeff Long,And so I like the integration that you guys are doing with being able to do block coding first and then transitioning over to Python.
+Jeff Long,But it's just a challenge to get the kids to learn how to implement the Python without losing interest.
+Jeff Long,So I think the biggest thing would be how to implement it in an LMS.
+Jeff Long,So kind of this is what three week program would look like.
+Jeff Long,This is what a six week program this is what a nine week program would look like.
+Jeff Long,"And just kind of giving the goals and we use Teas, but the requirements per area."
+Jeff Long,"And just saying this is like a basic Stem course, or this is a basic Vex course."
+Jeff Long,"This is kind of more advanced and kind of outlining a little bit more, because right now, the problem with Vex PD that I have is it's a lot of information and just how to digest that information and then streamline it to what would fit our program."
+Jeff Long,So I really do appreciate all the step by step instructions inside PD Plus.
+Jeff Long,The lessons are good in PD plus.
+Jeff Long,"One thing I would probably ask to add is add a build series on specific builds video, like a video build series, so that way we can see exactly which part you want us to use."
+Jeff Long,"Sometimes it's hard to interpret based on the picture which part we're supposed to be using, or how it's supposed to line up, or even kind of which axle to use."
+Jeff Long,Right?
+Jeff Long,"So especially like when we do the gear ratio stuff, your pictures on the PD Plus are not clear on which axle to use and it doesn't really specify on this is the gear ratio for torque."
+Jeff Long,This is the gear ratio for speed.
+Jeff Long,This is the gear ratio for efficiency.
+Jeff Long,So just expanding on those areas so that way the kids kind of can or the educators trying to use PD Plus don't have to kind of experiment for themselves and figure it out.
+Jeff Long,"You guys are kind of putting it out there and saying, hey, this is exactly the bills that you need to have."
+Jeff Long,So I think the biggest success story for Vex is just getting the kids excited about robotics.
+Jeff Long,"Once the kids go into the different sections, they get introduced to the robot, they learn how to code."
+Jeff Long,"And then once you introduce them to that controller, you just see a little light in their eyes, right?"
+Jeff Long,Because they think it's like an RC car.
+Jeff Long,And so just giving them something fun and engaging.
+Jeff Long,And sometimes they're learning and they may not even understand that they are learning just because of the fun factor with the project.
+Jeff Long,So there's no real big failure example on lessons not working.
+Jeff Long,"I feel like the packaging that you guys have, Vex IQ specifically in, is super tight."
+Jeff Long,"So it's like real convenient for storage, but for kids and for students to be using that packaging, I found that I have to put it into bigger bins so that way they can actually find the pieces."
+Jeff Long,"Because right now, especially on some of your connector pieces, the students, they'll spend 20 minutes looking this little box."
+Jeff Long,I actually dump it into a larger bin so that way they can find the specific parts that they need.
+Jeff Long,The other issue that we have found is students will sometimes lose little parts.
+Jeff Long,"And some of those are like, there's only two of those parts inside the box or three of those parts inside the box."
+Jeff Long,"Or if they lose one and they're trying to do some of these more advanced builds, all of a sudden, now we don't have the right parts to be able to do those more advanced builds because other students have lost them or done something with them that we can't find them."
+Jeff Long,And usually we do a pretty good job of sweeping around the area to make sure that we don't pick up any of those parts.
+Jeff Long,"But just the limitation if we're looking for, like, we need three pin connectors and there's only five pin connectors in the box, and you lose a couple of them, all of a sudden, after a couple of years, you've now not able to do that build anymore because the students have lost those parts."
+Jeff Long,"So maybe just adding some, especially the really limited little pin connectors or maybe even some of the axles, adding some of that to the build parts."
+Jeff Long,"Okay, thank you."
+Jeff Long,This has been a great experience.
+Jeff Long,Have a good day.
+Jeff Long,Thank you.
+Luis Chavez,So my goal with Stem education at.
+Luis Chavez,This point would be to incorporate it.
+Luis Chavez,Into the science lab.
+Luis Chavez,"I currently see 3rd, fourth and fifth graders at my elementary school and they."
+Luis Chavez,Come in for hands on science lessons.
+Luis Chavez,And I see that this would be.
+Luis Chavez,A great opportunity to make sure that NGSS standards are covered with the Vex program.
+Luis Chavez,So that is what I am looking.
+Luis Chavez,Forward to at this point and growing.
+Luis Chavez,"In that area, as well as making."
+Luis Chavez,Sure we are able to incorporate it.
+Luis Chavez,School wide in the near future.
+Luis Chavez,"Oh, yes."
+Luis Chavez,"Luis Chavez, science teacher at Montague Charter Academy from Pacoima, California."
+Luis Chavez,Have I started with Vex in 2019.
+Luis Chavez,"Took a break and came back for this current season with Vex IQ, and we have had a couple of our teams actually qualify at the state."
+Luis Chavez,14Th graders.
+Luis Chavez,One of the challenges so far would.
+Luis Chavez,"Be the engineering notebook component and getting students more involved in that process, making sure we start that engineering design process correctly from the very beginning."
+Luis Chavez,I would say that's what I need.
+Luis Chavez,"More support on, as well as the teacher development component for the teachers at my school, because we do want to bring it back and expand on it across the grade levels."
+Luis Chavez,So hopefully that's that's a great question.
+Luis Chavez,What could what could we do to.
+Luis Chavez,Make Becks a lot easier?
+Luis Chavez,Maybe seeing some more hands on videos from teachers starting Vex as well as.
+Luis Chavez,Videos of those students who are starting the process and then maybe relating some of the challenges that they have run into and sharing those with us.
+Luis Chavez,One of my questions would be is.
+Luis Chavez,"There a way to incorporate one, two, three Vex goal and IQ?"
+Luis Chavez,How to connect the three or how to gradually implement them from the lower grades all the way to the upper grades?
+Luis Chavez,My success story or one of the successful moments for us definitely has been.
+Luis Chavez,Seeing the level of parental involvement in.
+Luis Chavez,Our program at our school.
+Luis Chavez,"So that definitely has been one of the highlights for me doing Vex, seeing how involved parents become and how interested they become and the way that the."
+Luis Chavez,Students explain it to them.
+Luis Chavez,"It's so easy for them to accomplish that component, being able to explain the game to their family members."
+Luis Chavez,I'm not sure that I've had an.
+Luis Chavez,Experience like that just yet.
+Luis Chavez,Everything has some sort of challenge.
+Luis Chavez,I can't think of one particular one.
+Luis Chavez,But definitely in regards to students wanting.
+Luis Chavez,"To pursue careers, I can think of."
+Luis Chavez,Two of our young students who are.
+Luis Chavez,Looking forward to robotics and coding at the middle school level.
+Luis Chavez,They come in during recess and lunch to put in the extra work.
+Luis Chavez,So that definitely is very rewarding to.
+Luis Chavez,And thank you.
+Andy Petrie,I think what we're I think what we're trying to do at our school is to get more year levels involved in Stem.
+Andy Petrie,"Certainly with the robotics, we've got year five and year three."
+Andy Petrie,So we're just trying to spread that out a bit more in the junior school.
+Andy Petrie,Andy Petrie.
+Andy Petrie,Is that okay?
+Andy Petrie,I definitely want to be able to get more understanding behind coding.
+Andy Petrie,"I think I can code to a point, but then it's actually the troubleshooting that I struggle most with that would probably be more beneficial than just coding."
+Andy Petrie,Yeah.
+Andy Petrie,Troubleshooting working out what's gone wrong and how to fix it.
+Andy Petrie,"I think if Vex could show some links to robotics to general curriculum, I know that it would be difficult to specifically target different countries and their specific curriculum, but if you could do a general, this could link to some English or this good link to some math, that would be really beneficial."
+Andy Petrie,I think having the virtual ability to program and see these robots move around really gives the kids that kind of that vision that they can actually do it and have a play around.
+Andy Petrie,And it doesn't matter if the robots are moving the right direction.
+Andy Petrie,"I think I've had struggles with trying to connect kids with Vex and iPads in the past, but I'm not too sure if that's still an issue."
+Andy Petrie,"So if that is an issue, that could be fixed."
+Andy Petrie,"But generally speaking, there's a lot of great resources available to us from you guys."
+Andy Petrie,So thank you.
+Andy Petrie,"I'm extremely grateful to be here, and the only reason I'm here is because the team that came from the school that I'm from, they didn't win their area that they were in the national championships in Australia."
+Andy Petrie,Their robot kept failing.
+Andy Petrie,"The reason that they got through was because they were able to articulate clearly exactly what they were trying to do, how they were trying to fix it."
+Andy Petrie,And it's a brilliant story to pass on to those children who and adults who think that you have to be uber successful at something to get to this sort of environment.
+Andy Petrie,"They were brilliant, but their robot just didn't work for whatever reason, didn't do all it needed to do."
+Andy Petrie,"But the reason they got here was because, as I said, they were able to explain everything that they were doing and just kept persisting, showed resilience, and I think it's a fantastic story."
+Andy Petrie,I'm lucky enough to work with some people that are able to think on their feet and work through issues as they come up.
+Andy Petrie,And I can't really think of many times where something we've tried to do hasn't really worked.
+Andy Petrie,Probably the main problem would be referring back to a previous answer would be the Troubleshoot.
+Andy Petrie,And it's just like what to know how to help the kids get them to redirect themselves is probably the biggest challenge.
+Andy Petrie,I think that's probably the most suitable answer I have for you there.
+Andy Petrie,Hold on Mike.
+Milo Zankov,So my name is Mill Zankov.
+Milo Zankov,"I'm teaching in Adelaide, Australia."
+Milo Zankov,"I started with Vex in 2018 when Vex, Australia opened up a branch and warehouse and headquarters in in Adelaide."
+Milo Zankov,And so my involvement is as a teacher across predominantly middle to high school in terms of the classroom setting.
+Milo Zankov,But then I have role in terms of professional development across R to twelve and then I do some work with university sectors in terms of training preservice teachers.
+Milo Zankov,And so my involvement with X has been across all the programs.
+Milo Zankov,"Just recently I've been doing professional development with One, Two, Three and Go for our junior primary and primary teachers and then within the upper years teaching both in the classroom and then training some new staff as well."
+Milo Zankov,"In the competitive side with the program it's been diverse because obviously we as the first school in the state to really start Vex and then run the regional competitions, there's been a lot of professional development on the competitive side for schools around the state and that's across sectors."
+Milo Zankov,"So government, non government schools."
+Milo Zankov,So my goals in Stem education are to continue growing the diversity of students and schools that are within the Vex program.
+Milo Zankov,"Because for me, we had in the Adelaide region as an example, 16 schools involved bid over 400 students, which is a fantastic number in the state."
+Milo Zankov,But that equally means that there are thousands of students that have not had an opportunity and hundreds of teachers and equally schools as well.
+Milo Zankov,So for me it's about scaling the program and that's a big component.
+Milo Zankov,"I guess I'm more thinking on a macro level now because within my school I've managed to get that golden, I guess, drive within teachers internally now in both computer science and the program where I could leave the school and it survives."
+Milo Zankov,And so now I start to think about how can I ensure that there's a lot more students in the state that get access to the program and equally help those teachers and other programs nationally that can make sure that Vex keeps growing.
+Milo Zankov,So I guess personally my background is in computer science teaching and that's what I've been doing for 15 plus years.
+Milo Zankov,That area that Vex is covering in terms of the professional development side is very good in terms of teaching other teachers how to program and put that together.
+Milo Zankov,So I feel like that's covered.
+Milo Zankov,"But an area for me that is continually, I guess, something that I look to grow in is the mechanical engineering side."
+Milo Zankov,"And so I feel like in some ways the computer science environment professionally the development has hit, it's never going to hit maturity, but it's very good and the components of that are excellent."
+Milo Zankov,"And so it's this, I guess, be it with virtual support in terms of ensuring that there's CAD development and training for teachers like myself, that wasn't our background, but then equally as well skill sets around ensuring that we get the mechanical engineering components right."
+Milo Zankov,"So that's at a really small level, sorry, at more of a classroom level in terms of personally improvement, and then in a larger area, it's always that space of ensuring that competition support exists and grows as the program in our state."
+Milo Zankov,"As an example, moving out of just having 16 schools will probably double that this year."
+Milo Zankov,All that remains and continues.
+Milo Zankov,So an area that I think a lot of teachers when they get to a program as large as mine in terms of the extracurricular program.
+Milo Zankov,"So even though we've only got 150 students, we're probably the largest school in the state in terms of an extracurricular robotics program."
+Milo Zankov,"It sounds silly, but it's definitely something that teachers ask me a lot in Adelaide, Australia, around, is management of those resources in terms of classroom setup or workspace or workshop setup."
+Milo Zankov,That is a continual area that is always growing.
+Milo Zankov,"And so you can have schools that potentially are often introducing these parts, pieces, materials for the very first time."
+Milo Zankov,"They might have traditional woodwork, metalwork, et cetera, but the actual setup of that environment is something that is often not discussed, it's found and stumbled upon, and you work it out as suddenly you've gone from five boxes off robots equipment to 25, 30."
+Milo Zankov,And so I feel like that's a component of parts materials warehouse that is assumed that you'll just be able to do and understand.
+Milo Zankov,But it's actually one of my biggest challenges now as I've gathered an enormous amount of resources of equipment over the years since 2018 that I've now dealing with.
+Milo Zankov,And that's an important component because we have many more students now wanting to access those resources from the gone are the days of 30 students in the program.
+Milo Zankov,So that's an area to look at.
+Milo Zankov,I think the accessibility to high end teams or coaches or programs in the states that have been running for US international teams is very important and might be an area to really encourage and set up virtually and to have those conversations.
+Milo Zankov,"So what my blue sky thinking around that space is I met a couple of teachers at Welds, and they took photos of how their massive setups or their robotic setups occur."
+Milo Zankov,That I guess in a PD plus sense would be interesting.
+Milo Zankov,"And I'm just brainstorming now, let's say if you had time zone or virtual time zone setups for something like, how do you deal with 100 kilos worth of Vex equipment in your classroom?"
+Milo Zankov,"Then if there was an opportunity to virtually come in via Google meets or whatever it was, to have a live conversation for ten minutes where that person on the other end is in their room in their environment, they're showing me their set up."
+Milo Zankov,"They're showing me from the storage of how they're doing things like sea channels, et cetera."
+Milo Zankov,And where are they being placed and in their room.
+Milo Zankov,And giving me a tour.
+Milo Zankov,And I'm able to ask them questions about how that functions for me at a level where the program in my school is obviously bursting at the seams in terms of the parts and pieces and materials.
+Milo Zankov,"Like I said in the previous question, that can sometimes be, I guess, not looked at directly because it's just an assumed practice."
+Milo Zankov,"But I think you got to remember from Australian schools getting into the program, they've never had this amount of equipment and set up, and so they don't have access to, I guess, in the States, many, many thousands of tens of thousands of schools involved in the program who they naturally can just almost drive to a school and go, show me how you've set it up."
+Milo Zankov,We don't have that.
+Milo Zankov,And it's very early days still in Australia in that space.
+Milo Zankov,So we need more of that resourcing and support that decide.
+Milo Zankov,"And I think that's important because if you can do that, you encourage people knowing how to handle Vex in terms of the parts and pieces, because if we don't, well, then we'll always kind of limit it based on how much resourcing a school is willing to sort of give someone in terms of cupboard space."
+Milo Zankov,"Whereas if you can show them this is accessible for everyone, this is how we do it, then you have continual growth."
+Milo Zankov,"So thank you very much, Jason and the team."
+Milo Zankov,Is this a summary?
+Milo Zankov,Is this him finishing up?
+Milo Zankov,There might be one more question.
+Milo Zankov,It might be maybe one more so.
+Milo Zankov,"Success story for me is just seeing the fact that we've had students this year, my full so come full cycle."
+Milo Zankov,"So they started when Vex came to Australia in 2018 in IQ, and just with only a year or so to go before they finished school, they managed to qualify for Welds."
+Milo Zankov,And that was having those ups and downs throughout in terms of them building and growing as a team and all those other components was amazing to see.
+Milo Zankov,"I mean, for me, I've always said to them that it's just the growth in them that's the rewarding experience, and they know that as well."
+Milo Zankov,"But to have that, I guess, added element of achieving an opportunity to see other teams from around the world who are the best of the best for the season was just the icing on the cake."
+Milo Zankov,And I think that's been amazing.
+Milo Zankov,"And from the other side of it is to have teams that otherwise would never participate in competitions like this through very minimal funding, suddenly say we do want to get involved."
+Milo Zankov,"And so seeing that the school is able to provide the regional competition for teams to come and participate in that space and those students see that as their Welds tournament in a way, because they're just having an experience with other students that they never would of originally, I think that's just amazing."
+Milo Zankov,"And so it can be a student seeing a small regional competition as their Worlds tournament all the way through to those students, knowing what Worlds was and is and then actually being here and seeing that has been amazing."
+Milo Zankov,"So, thank you."
+Milo Zankov,"So I guess a lesson that perhaps didn't work out with Vex was moving too quickly to building an IQ robot and then running an autonomous challenge in terms of students programming or mimicking basically, what was happening in the industry with autonomous cars."
+Milo Zankov,"I think what was interesting with that whole unit, which we're retweaking and changing, is the excitement around autonomous vehicles for students I perceived was going to be there, but it wasn't."
+Milo Zankov,"And so they're more interested in some of the mechanical componentry in terms of how and functions a robot versus giving them an opportunity to explore the ethical and implications of autonomous vehicles on the roads, et cetera."
+Milo Zankov,What I found in that particular grade eight class wasn't there.
+Milo Zankov,"So when we changed tact and moved into some of the nuts and bolts off mechanics, off a robot, et cetera, and moved away from that, build a basic robot mover, et cetera, and think about the autonomy of what's happening yeah, that definitely is an area that when that lesson was happening, I thought, okay, there's some tweaks here to be made."
+Milo Zankov,"So, yeah, that was one component."
+Peggy Myers,I'm Peggy Myers.
+Peggy Myers,"I am a middle school teacher, 6th through 8th grade at Hancock Middle School up in the Upper Peninsula of Michigan."
+Peggy Myers,We use Vex from elementary all the way through high school.
+Peggy Myers,The middle schoolers and elementary schoolers are using Vex IQ.
+Peggy Myers,The high school is using vex EXP.
+Peggy Myers,We and then was there another question on that one or not?
+Peggy Myers,"We have a robotics program starting in elementary school, and it goes all the way through high school."
+Peggy Myers,"We've done our first competition this year, but it was at the end of the season."
+Peggy Myers,We had problems getting our Vex playing fields and some of our materials in on time for the kids to really be competitive for much of the season.
+Peggy Myers,This year was definitely a learning season for us.
+Peggy Myers,"Our goals with Becks are we'd like to host a competition this upcoming October, so we're looking for information and mentorship on that and then follow on goals."
+Peggy Myers,"We would like our students to have marketable skills when they leave high school, some going on to college and some just getting employed straight out of high school."
+Peggy Myers,"We've been talking to community leaders and manufacturers, other companies within our community, to see what skills they would like their workforce to have coming out of school."
+Peggy Myers,"With robotics being such a high portion of manufacturing, we feel that's an important part of our important part of the curricula is that manufacturing tool and changing the perception of what manufacturing looks like from what it used to be to something that's more clean, more friendly to females in the workplace."
+Peggy Myers,Lots of different things there.
+Peggy Myers,The other thing that we're using Becks for is computer science and the coding aspect of it.
+Peggy Myers,"So kids that want to go that direction, they've got a good platform with that."
+Peggy Myers,"We found that the block coding, and it's a great tool."
+Peggy Myers,"We've been starting our kids out on scratch to get them used to the coating before we started with Vex, and that loading real naturally."
+Peggy Myers,We are working on professional development right now for our teachers so that we're up to speed on everything.
+Peggy Myers,"I think we've got a pretty enthusiastic crew, so we're out looking for opportunities."
+Peggy Myers,"We sent a teacher to this conference last year, so her experience, her team at the competition said much better than mine."
+Peggy Myers,"This is my first time using Becks, and this is my first conference, and it's nice to see how everything goes."
+Peggy Myers,"Just the format of everything and how the competition is run, how the teams are built."
+Peggy Myers,"All the small details that you just absorb by seeing our challenges really are that we're located so far in the north of the Upper Peninsula that competitions are difficult for us to get to, logistically, being up in Hancock, Michigan."
+Peggy Myers,So we would like to host a small competition up near us and maybe with some schools in Wisconsin.
+Peggy Myers,Many of those are closer.
+Peggy Myers,I think the website is difficult to navigate at times.
+Peggy Myers,"There's a lot of information there, so I think all the information is there."
+Peggy Myers,I think it's hard to find sometimes.
+Peggy Myers,"There's a lot of marketing on the surface, and we have to dig through the marketing and the pitches to get through to what we're actually looking for."
+Peggy Myers,"There have been some times when the kids are trying to troubleshoot when sensors aren't recognizing the right colors and things like that, and it's been hard for them to find short little troubleshooting for those types of things when they're trying to figure out why their controller is not working right or the sensors don't seem to be operating quite right."
+Peggy Myers,There's not really a flow chart or a checklist to see.
+Peggy Myers,"Hey, if this is going wrong, check first."
+Peggy Myers,"If the sensor is not working right, what should they check first?"
+Peggy Myers,What should they check second?
+Peggy Myers,Like a computational thinking kind of flowchart troubleshooting.
+Peggy Myers,Troubleshooting flowchart would be really helpful for them.
+Peggy Myers,"I think that when I allow my kids to do free build, how I've been using some of your labs and competitions is we start with that."
+Peggy Myers,We get for that.
+Peggy Myers,We use that as the basic bare bones.
+Peggy Myers,And then I let them create their own competition.
+Peggy Myers,They collaborate together at the board.
+Peggy Myers,They make up their own rules.
+Peggy Myers,They're allowed to use the playing field and manipulate the playing field how they would like to build their own classroom competition.
+Peggy Myers,"So I think with the classroom kits, it would be cool if they had spare parts that they could use to go beyond the regular classroom kits."
+Peggy Myers,I think that would be helpful too.
+Peggy Myers,So we ended up with five.
+Peggy Myers,"We bought five kits for our classrooms, for the regular labs, and then one competition kit."
+Peggy Myers,I feel like that limited their creativity.
+Peggy Myers,Having just one competition kit for class and the five regular standard kits spare parts would be great.
+Peggy Myers,"And I'm just diving in now to some of the labs, having the kids do the different labs on the different gear ratios and things like that."
+Peggy Myers,"So we're still learning a lot, but I think that's it."
+Peggy Myers,Thanks.
+Peggy Myers,Definitely one of my favorite parts about this job is it seemed like it was the last question all the time.
+Peggy Myers,He got that everybody else like anything else question.
+Peggy Myers,I'd assume it was last or a.
+Peggy Myers,"Well, so we've only went to one competition so far."
+Peggy Myers,The kids didn't.
+Peggy Myers,"I mean, they competed, they had great attitude, but seeing that it was the end of the season, mostly their teams had their robots dialed in pretty well, and this was their first iteration."
+Peggy Myers,"Like I said, we didn't get our playing field until after we had left for the competition."
+Peggy Myers,So they didn't have any time to practice on the playing field at all before we went.
+Peggy Myers,"I think that the best part that they took from it was that how the other team helped them out and collaborated with them and said, hey, I think you need this."
+Peggy Myers,And they helped them help them make quick adjustments to the robot in between matches.
+Peggy Myers,So the team collaborations from the other schools was probably the best part.
+Peggy Myers,Don't be shy.
+Peggy Myers,"Well, I don't have a typical answer for this one."
+Peggy Myers,"The way that I structure the classroom, we don't follow a precise lab one, lab two, lab three, lab four."
+Peggy Myers,I let the kids go in.
+Peggy Myers,"I let them do some free build time, and then I show them what the competition is going to be, and I direct them to the instructional website, and they watch the videos and they build on their own."
+Peggy Myers,"Usually, if they're coming up with problems, I redirect them back and point them to a group that's successful."
+Peggy Myers,"So I guess I don't have a lesson that failed because I'm not teaching it in a traditional, teacher centered lesson environment."
+Peggy Myers,It's all about the kids.
+Peggy Myers,"And if the kids want to if the classroom goes off of the lesson plan, I let them."
+Peggy Myers,It's an elective.
+Peggy Myers,"I think that's kind of the point of all of this, is let the kids be creative, and the ideas that they come up with are going to be better than the ones that I was trying to direct them to."
+Peggy Myers,We all right.
+Chris Collins,Okay.
+Chris Collins,I'm Chris Collins.
+Chris Collins,"I've been teaching robotics, or specifically Vex IQ for about six years, exclusively Vex IQ."
+Chris Collins,"Next year, I'm going to get into the Vex Go, and most of my teaching career, I've been a fourth grade teacher, but this year was my first year as a GT specialist."
+Chris Collins,"And so I'm excited about getting into the Vex Go, and even more excited getting one, two, three and trying to find ways that I can not just have it on me, but have it on the teachers to participate and to get this into their classrooms."
+Chris Collins,"My goals are to become more to do more of the go in the one, two, three, and to also push it into the classrooms."
+Chris Collins,"I need more training on it, for sure."
+Chris Collins,"And then once I've gotten the training and I feel very comfortable with it, I will try to push into teachers classes and help them implement it in the classroom using multiple parts of the curriculum, multiple subjects."
+Chris Collins,"So that's my goal, to become a bigger Stem campus than we are right now."
+Chris Collins,"Well, definitely obstacle is resources, getting money to finance, getting more equipment."
+Chris Collins,"There's only so much the district will supply me with, and it's a very slow process, and I'd like for it to be faster."
+Chris Collins,I definitely would like more professional development.
+Chris Collins,"And being here, I think being part of PD Plus finally, I think will help out a lot."
+Chris Collins,"I'm going to use a lot of the resources for PD Plus online and try to use that to get better at coding, get better at engineering."
+Chris Collins,"Until now, I've had a hard time trying to find out how to troubleshoot."
+Chris Collins,I've kind of troubleshooted troubleshooting.
+Chris Collins,"For the most part, it's trial and error."
+Chris Collins,Why is this not working.
+Chris Collins,"Well, let's try this."
+Chris Collins,"And I'll sit there, and it takes up a lot of time when you don't know what you're doing, why the brain is acting this way."
+Chris Collins,Why is this happening?
+Chris Collins,Why isn't this working?
+Chris Collins,Stuff like that.
+Chris Collins,"And the programming, we've been very reluctant to do the autonomous part, the coding, because I just don't have that experience."
+Chris Collins,Lesson plans.
+Chris Collins,And I know you all do have something like that online.
+Chris Collins,"I haven't dabbled in it yet, but definitely lesson plans that have multiple disciplines, especially when you're pairing math and science together or reading and writing together, because that's usually how our teachers are blocked."
+Chris Collins,A math teacher is not going to want to sit there and use it for one particular thing I see that the teachers want.
+Chris Collins,How can we double dip?
+Chris Collins,How can we kill two birds with 1 st?
+Chris Collins,"So, more lessons, making the brains a little bit easier for the kids to deal with."
+Chris Collins,I have all the old first generation of brains.
+Chris Collins,We have 1 second generation.
+Chris Collins,And I do see the difference in the interface on the brain.
+Chris Collins,That is a big help.
+Chris Collins,Further explanation.
+Chris Collins,"Before I came to this convention, I did see that there are some videos explaining a few things here and there, some of the sensors and whatnot."
+Chris Collins,That's good.
+Chris Collins,"Just more information, more ways for me to get teachers in the classroom excited."
+Chris Collins,I'm not a classroom teacher.
+Chris Collins,I'm a teacher that I pull out and my kids and I teach robotics as an after school thing.
+Chris Collins,That's one thing I need to know a little bit more about.
+Chris Collins,"How am I going to do one, two, three, and go."
+Chris Collins,Is it going to be after school thing?
+Chris Collins,"I personally think it should be just woven into the curriculum, but we're working on that."
+Chris Collins,"I like for there to be a program to where you can I mean, I have kits, but they are older kits, and I'm missing little pieces here and there."
+Chris Collins,I don't want to have to buy a whole giant set just to get new brains.
+Chris Collins,"Or, you know, I would like I would like an option to where you can buy new pieces that you all may have that I won't have to buy a giant kit for."
+Chris Collins,"I feel like Vex go, I've kind of dabbled a little bit with it."
+Chris Collins,I haven't used it with kids yet.
+Chris Collins,"Like I said, I just got it and I feel like there should be more parts to it."
+Chris Collins,"More pieces, like maybe supplemental pieces that I could add."
+Chris Collins,And maybe this is I don't know.
+Chris Collins,"Like I said, I haven't tried it quite yet with kids."
+Chris Collins,I'm still kind of playing around with it just to get a good feel of it.
+Chris Collins,I don't understand why I need so much of a foam packaging.
+Chris Collins,"I mean, it comes in pretty handy cases as it is."
+Chris Collins,I feel like that money for the padded bags probably could have gone for maybe a cheaper kit.
+Chris Collins,So I don't think the carrying cases are necessary.
+Chris Collins,"Well, like I said, I've been teaching it for six years now, and I have had kids in my first group who are still doing robotics, and they have come back and told me that they appreciate me."
+Chris Collins,It was me that got them started on the path that they are on.
+Chris Collins,So that's definitely rewarding.
+Chris Collins,It's great to hear that.
+Chris Collins,I always love getting feedback from old students.
+Chris Collins,"So to hear that, it's great, it's awesome."
+Chris Collins,And hopefully I can expand our program and get more of those stories.
+Chris Collins,I don't really teach it as a lesson for Veg's IQ.
+Chris Collins,It's more after school.
+Chris Collins,We talk a little bit about the engineering notebook and the process you go through to create a robot.
+Chris Collins,But I don't really have lessons.
+Chris Collins,"I do find a lot of the kids, and I'm hoping that go in one, two, three will help this."
+Chris Collins,"But when the kids come to me in fourth and fifth grade, they very clueless."
+Chris Collins,"They'll come up with ideas that have nothing to do with the competition or that won't help, because they're still learning how to put the parts together and still kind of getting familiar with all of it."
+Chris Collins,But I think that's why I was pushing for Vex Go so much.
+Chris Collins,I was hoping that using Vex Go would help me get more qualified kids to go to IQ.
+Chris Collins,Then they can go on from there into middle school.
+Chris Collins,"So I don't really have any bad lessons, so I guess that's probably how I can't help with that one."
+Laura Mackay,Okay.
+Laura Mackay,I'm Laura Mackay.
+Laura Mackay,I'm from Claire Creek ISD I'm the coordinator of innovative Programs.
+Laura Mackay,They just gave me a new title.
+Laura Mackay,I've done competition robotics now probably for ten years.
+Laura Mackay,"And then last year was when Claire Creek started the pilot program called the RCC, where we implemented Vex one, two, three, Vex Go and Vex IQ for pre K through fifth grade."
+Laura Mackay,"So on the competition side, we've use the Vex IQ coding."
+Laura Mackay,And then now we are using both the Vex Go and the Vex IQ coding pieces.
+Laura Mackay,"And we do one, two, three."
+Laura Mackay,"And we have just started coding one, two, three with our laptops with second graders, like, within the past six weeks."
+Laura Mackay,So that is my experience with the coding piece of Vex.
+Laura Mackay,So my goals with Stem education is I want robotics for all.
+Laura Mackay,"I believe in the competition piece, but I could only reach 15 kids at a time."
+Laura Mackay,"And so what I like with One, Two, Three, Go, and now IQ is that I'm trying to get all students 100% K through five having some kind of robotics experience during the school day, not after school."
+Laura Mackay,And so we've been successful with that.
+Laura Mackay,It's just finding time and finding the resources to pay for the robotics kits to keep rolling it out to more schools.
+Laura Mackay,"So right now, we're in three schools, and more schools want to participate."
+Laura Mackay,So now it's just a funding.
+Laura Mackay,"But yes, if my goal is every kid in elementary school K through five would have some kind of robot experience a couple of times a year to get them comfortable with building and coding."
+Laura Mackay,So the biggest impediment is money for resources for robotics is one piece.
+Laura Mackay,"As I was sitting here listing in a session, I don't know if you know what scratch cards are."
+Laura Mackay,"We use them with the MIT Scratch program, and they're cards kids can go get when they run into a problem, and it tells them how to do it."
+Laura Mackay,"And so I'm looking at the LMS course, the person designed, where you could do maybe the bumpers, and you have to go through this LMS course."
+Laura Mackay,"But I like the idea of a physical card that our kids could go pick up, and it would tell us, this is how you code a bumper, or this is how you code a sensor."
+Laura Mackay,And it's right there.
+Laura Mackay,A teacher doesn't really have to interact too much.
+Laura Mackay,They physically get something coded and be done.
+Laura Mackay,So those scratch parts have been awesome.
+Laura Mackay,I need help on knowing the competition upgrade kit.
+Laura Mackay,"There are several parts in there I have no clue how to use, nor how to teach them to our children."
+Laura Mackay,And I haven't seen videos yet on how to do that.
+Laura Mackay,"And I would also like to be that in person, not just watch a video, but actually physically go through that with someone."
+Laura Mackay,"And I do think the videos are super helpful, but I also think my teachers are learning better when they're face to face with someone who's actually walking them through hands on."
+Laura Mackay,"And so that's been a challenge, trying to find time to do that and trying to find people who can do that, basically almost on demand."
+Laura Mackay,"Honestly, I think you provide a ton of support."
+Laura Mackay,"So I think that's sort of a hard question because anything I need, a lot of it's already been created."
+Laura Mackay,"So I guess I'm really looking for, specifically in Texas, ways to integrate to content."
+Laura Mackay,"So you know that about me, and that would make my life easier if some of those things were already highlighted."
+Laura Mackay,"Like, here's the standard, here's how it's met exactly with math."
+Laura Mackay,But it also sort of takes away from my teacher's creativity if too many of that stuff is created because part of it is them creating it to feel like they're buying into robotics.
+Laura Mackay,"So that and then the scratch cards, like how to use the sensors, how to use some of the harder things."
+Laura Mackay,"And kids won't necessarily go watch a video, but maybe, like, the kind of elements to some we just sort of saw where I could maybe like it's already created in canvas, and I just copy it over to a teacher's course, and there's no work to be done."
+Laura Mackay,It's just already pre created.
+Laura Mackay,"I think next year for this conference, breaking us into two groups for a session or two where you're looking at administrators and then teachers and having it from the two different viewpoints."
+Laura Mackay,"Lately we were having problems with the Vex one, two, three, puck with them, not holding a charge with them, not taking the code."
+Laura Mackay,"They're a year old, so I don't know if that's it."
+Laura Mackay,We traded out the batteries.
+Laura Mackay,Some of them won't charge or update it's not on the software side.
+Laura Mackay,But I need to investigate that more a little bit.
+Laura Mackay,I'd like to see a couple more things with the base bots related to science and math and some more curriculum tie ins.
+Laura Mackay,"But honestly, your Stem labs are amazing."
+Laura Mackay,And then I guess I sort of think about what I do with Minecraft and Scratch.
+Laura Mackay,They both have these built in tutorials where you do like this little piece and sort of code and find it.
+Laura Mackay,I sort of feel like you all have that too.
+Laura Mackay,"But that's sort of where our work is now that we've taught kids, is how can they teach themselves without us?"
+Laura Mackay,"And so making sure that that's super simple, which most of it I feel like it is, we can search anything and find a video on it."
+Laura Mackay,"But yeah, Jason, you are doing a great job."
+Laura Mackay,I think you have heard all of my success stories and you are is a revolution and we are on the ground floor.
+Laura Mackay,And I think in about ten years we will have this integrated into content and will just be something that all kids do.
+Laura Mackay,"They may not all love robotics, but at least all of them will have had a chance to try it."
+Laura Mackay,"And so I feel like this is something that's going to be integrated into our public schools and just be part of, just a normal part of what we do, which I think is amazing."
+Laura Mackay,We have not had that problem really in elementary.
+Laura Mackay,Everyone who's done it has enjoyed it and been engaged with it.
+Laura Mackay,"The issue is that might not be their thing, but that's a very small group of kids."
+Laura Mackay,"Even our special ed kids, our low kids, our kids from poverty, they've all been able to do Vex and they've loved it."
+Laura Mackay,"The issues right now, I'm not sure if you can fix it, and I need to look at it some more."
+Laura Mackay,"But the lessons that went bad are the ones where something's glitching, where we have twelve Vex pucks and six of them aren't working even though we charged them overnight, or we can't, for whatever reason, get the code to download."
+Laura Mackay,And part of that's probably some of it might be user error where we're not totally understanding what we're doing or we're doing something wrong.
+Laura Mackay,"So before I want to say that's totally my answer, I need to go back and research a little bit to make sure I'm correct on that."
+Laura Mackay,It's really a hardware issue or a software issue and not just a user error issue.
+Alcide Salse,My name is Alcide Salse.
+Alcide Salse,Al Salse from the New York City Fire Department.
+Alcide Salse,I'm here representing the New York City FDNY High School.
+Alcide Salse,We just started a club last September.
+Alcide Salse,The club is slowly growing into what's going to be a future team.
+Alcide Salse,"We are working with the V Five kits, and we're hoping to start a team to come to the VRCs double arrow."
+Alcide Salse,"As the director of the FDNY High School Robotics Club and Future Team, I'm looking to hopefully expand the team and have multiple robots compete on a personal and private level."
+Alcide Salse,"I have my own business where I will slowly incorporate a lot of the BECs one, two, three, the Go, and the IQ with my program, I currently teach young children about first responders and how technology and steam involved in all of our responses."
+Alcide Salse,"And after attending the educational conferences, I realized that I can incorporate a lot of what Vex has to offer into the program that I'm starting up with."
+Alcide Salse,"There really isn't much in the way the training obviously will occur as we continue to grow, both with the FDNY High School team and on my personal side with my business."
+Alcide Salse,I think the biggest hindrance is time.
+Alcide Salse,Right?
+Alcide Salse,You need the time to be able to accomplish your set goals.
+Alcide Salse,One thing I do enjoy about the Vex program as a whole are the fact that you already accomplished a lot of that time saving factor by providing the videos and the hands on that you can go along with the videos and the robots that you work with.
+Alcide Salse,"The one, two, three, the Go, the IQ."
+Alcide Salse,"I don't have any of those yet, but I can see already that the videos that you provided for those sets are going to make the training a lot easier."
+Alcide Salse,So I guess right now it's just a matter of time.
+Alcide Salse,"Both the time that we're going to have to put in to get up to speed with the necessary knowledge, but also the time needed for the programs to grow themselves."
+Alcide Salse,"Unfortunately, I don't have a good answer to this question other than the fact that you've already covered all the bases with the Vex program."
+Alcide Salse,"Again, I'll repeat, the videos are amazing."
+Alcide Salse,"The downloadable equipment from the PDF files to the rulers, all those things just make it so much easier."
+Alcide Salse,So I really don't have much to add to something that's already so good.
+Alcide Salse,"And as we grow, maybe that'll change, but right now, you're providing everything we need."
+Alcide Salse,I think the best thing that I've experienced so far was this educational conference.
+Alcide Salse,I see myself attending it year after year just to gain more and more knowledge.
+Alcide Salse,"The presentations that were offered were just an endless supply of information and experience from all walks of life, from the educational aspect to the personal experiences to the community based programs."
+Alcide Salse,"And I think it's something that not only do I aspire to continue to come to, but I'm hoping somewhere down the road I can maybe come down and be a presenter if the program that we're looking to do is successful."
+Alcide Salse,"And I feel that with the Vex program, it's going to be tenfold in the success aspect."
+Alcide Salse,Two of the main successes that I've experienced so far.
+Alcide Salse,"Again, we're just starting out a club at the high school with the intentions of starting a team is the fact that I've seen students not only improve in their love for pursuing more in the Stem programs, especially with the robotics coming into fruition in the future, but the fact that they're slowly bringing their friends along as well."
+Alcide Salse,"We're an urban, inner city school with the usual problems that are found in that type of environment."
+Alcide Salse,"And I can see a lot of these kids starting to see a brighter future by attending the club to the point where while I am personally doing some It work and just loading up things or charging batteries during the school time, students will skip lunch and actually come into the classroom and just do extra work on their own."
+Alcide Salse,"Whether it's playing chess, whether it's coding."
+Alcide Salse,"And I'm pretty sure once we start opening the boxes of all our V five S, they're going to come in and start working on their designs, their engineering, their coding, and really pursuing the goal of coming to Texas for the finals."
+Alcide Salse,"On a personal note, with my business, I see myself, like I said, using the younger, aged, appropriate Vex products to expand what I thought was going to be more for the older kids."
+Alcide Salse,"As a first responder steam enrichment and outreach program, I realized that using the younger age robotics, I can really implicate a lot of what I'm already teaching."
+Alcide Salse,"One of the things that I've noticed, even though I'm not using Vex, I see the children really finding interest in learning something that they've already learned math and science, obviously, art, some engineering."
+Alcide Salse,"But I see that when they come up to me and go, are you going to come back next week with a sense of I can't wait to see you again?"
+Alcide Salse,That I think is going to grow exponentially when I introduce the Vex programs that you guys offer.
+Alcide Salse,"Unfortunately, I can't give an answer to that since we haven't opened our V Five products."
+Alcide Salse,But I will make a prediction.
+Alcide Salse,I don't see this happening.
+Alcide Salse,"Unfortunately, with the little that we've done so far and the interest that I've seen with the students when these boxes are open and they see all the parts, all the components, and the fact that I've taken hundreds of videos and photographs of the World Championships, I think I predict that's going to be an impossible task of having someone have difficulty either with learning something new or being excited about robotics in general."
+Alcide Salse,But to be continued.
+Alcide Salse,I'll be back next year to answer this question.
+Alcide Salse,Thank you for everything as well.
+Dallas Librarian,Hi.
+Dallas Librarian,I am a librarian in Dallas ISD.
+Dallas Librarian,My campus has fourth graders through 8th grade.
+Dallas Librarian,"I am at a small school, and so my principal asked if I would teach the robotics class."
+Dallas Librarian,"All the specialists in my school were asked to teach a sub project outside of their specialty, just because we're small and they needed offerings but don't have the ability to hire additional staff."
+Dallas Librarian,"So this was my first year to teach middle school robotics elective, and we used Vex IQ, and it was a huge learning curve for me."
+Dallas Librarian,"So, yes, in addition to teaching the Vex IQ robotics class, we also had a competition, two teams here in Dallas, IC, and we did go to competitions."
+Dallas Librarian,"My goal as the librarian is to also purchase with funds that I have in the library, the Vex Go kits for my fourth and fifth grade class."
+Dallas Librarian,And I've learned quite a bit here.
+Dallas Librarian,"And I have a granddaughter who's in kinder and hope to purchase this summer the Vex one, two, three for her so she can start learning about coding and robotics."
+Dallas Librarian,So I would love to have PD on how to navigate your website in your PD.
+Dallas Librarian,"Plus, you have lots of resources."
+Dallas Librarian,"So I'd like to have a session next year on just your website, the tabs where I go as an educator, that kind of thing."
+Dallas Librarian,"And then in addition, because I'm a librarian, I also want some cross curricular lessons."
+Dallas Librarian,How do we apply this?
+Dallas Librarian,"What lessons do you have specifically for math and science, language arts, even social studies and history, in addition to the computer science lessons as well."
+Dallas Librarian,"And again, I'm sure you have some of these things already in your website."
+Dallas Librarian,Just navigating that would be helpful in what you have available.
+Dallas Librarian,That's free to us as educators.
+Dallas Librarian,"I do think that your conference, your educators conference, should be more about what can we do, what can we take back to our classroom?"
+Dallas Librarian,So we are not most of the people that are attending here are classroom teachers.
+Dallas Librarian,We're not principals.
+Dallas Librarian,"We're not over our Steam department, and we're not superintendent."
+Dallas Librarian,"So while hearing from Chicago and Miami Dade about the programs they have and how they've implemented them, that doesn't help me as an educator."
+Dallas Librarian,Take that back to my classroom.
+Dallas Librarian,"It's interesting, and it's good to know."
+Dallas Librarian,"And there are some resources that the AI guy provided, so I've taken some of that, and then the few other resource is I'm looking over my notes."
+Dallas Librarian,"But that's basically what I am looking for, is also, in addition, grants."
+Dallas Librarian,What grants are available that we can apply for so that we can fund some of these?
+Dallas Librarian,As someone who works in Dallas ISD it's a huge district.
+Dallas Librarian,"As a single educator, I can only influence my particular school."
+Dallas Librarian,"So what grants are available that you know of, whether they're federal or in the state or in the computer science area that I could apply for to get more excess money funds to purchase more of the Mexico?"
+Dallas Librarian,"That also, I think you've done an excellent job of inspiring us as educators to invest in Vex Robots."
+Dallas Librarian,"And the kits that you have, they are engaging, from what we can see, and just more information about your product, more ways about how we can engage our students, specifically in the classroom, and would love to know more about the Vex code VR that is also available and the coding there."
+Dallas Librarian,I just hope in the future to have more success stories.
+Dallas Librarian,I can only say that I appreciate your product and my learning curve has been enormous this year by being thrown into the classroom to teach this and just want to continue to grow as a librarian and learn even more about coding and robotics in the future for the benefit of my students.
+Dallas Librarian,I guess the struggles that we had with Beck's IQ are some of the same ones that a lot of the kids or some of the presenters had shared where the controller was not connected to the brain.
+Dallas Librarian,"Or for instance, I did a March Madness activity."
+Dallas Librarian,"So they built a couple of basketball nets at other end, and then they had to code the robot to go throw the ball in there."
+Dallas Librarian,"And each time they were asking it to drive forward, even though they would change the code to drive straight, make a 90 degree angle."
+Dallas Librarian,Each time it went differently.
+Dallas Librarian,"I don't know, for lack of a better word, it just didn't seem like it was the same every time."
+Dallas Librarian,And so they got frustrated by that.
+Dallas Librarian,But I'm not sure that there's anything you can do with that.
+Dallas Librarian,"So frustration is definitely part of it, but it's also a growing and learning lesson."
+Dallas Librarian,"And to be in the future, they will have to learn how to deal with failure."
+Dallas Librarian,"Failure and frustration, both myself and the students."
+Dallas Librarian,And then what can we do to make it better?
+Dallas Librarian,How can we fix that problem?
+Dallas Librarian,That would be the challenge.
+Dallas Librarian,You're welcome.
+Dallas Librarian,Really?
+Jeff Long,My name is Jeff Long.
+Jeff Long,"I teach at Stevenson Middle School down in San Antonio, Texas."
+Jeff Long,I've been teaching for five years.
+Jeff Long,"Prior to that, I was 24 years in the military as an army engineer."
+Jeff Long,"Right now, I teach Stem and Engineering."
+Jeff Long,"So I have a stem future lab course, and then I have a applied engineering course."
+Jeff Long,That's where we teach the the Vex IQ.
+Jeff Long,"Right now, we're doing Vex IQ you for about three weeks."
+Jeff Long,So we're just looking at how do we incorporate the stuff from PD into our learning management system?
+Jeff Long,And I am the only one in the district right now that's doing that.
+Jeff Long,"So I'm taking the stuff from Vexpd and putting it into our LMS, which is schoology."
+Jeff Long,And we're starting off with kind of Introduction to Robotics.
+Jeff Long,Then we do Introduction to Coding.
+Jeff Long,Then we go into the tractor pool.
+Jeff Long,Then we go into gear ratio.
+Jeff Long,Then we go into the Tug of War.
+Jeff Long,"Then we do a forklift build, and then we do some forklift competition stuff with the kids."
+Jeff Long,"And so really like, the system a lot of information kind of information overload when we go into PD and just learned about the Vex VR stuff."
+Jeff Long,So that's going to be interesting to try to incorporate.
+Jeff Long,"And that's going to kind of assist us with rolling out the IQ to some of these other schools, because one of our big challenges, of course funding and then the number of kits that we have."
+Jeff Long,"So if you have anything over three students on a kit, they kind of lose interest a little bit, because really, it's like a two student kit."
+Jeff Long,So just trying to get the kids keep the kid engaged while they're learning.
+Jeff Long,The Vxvr is going to be really great on that.
+Jeff Long,So our goals with Stem education is to kind of keep it on where we're at right now.
+Jeff Long,So about three weeks for the Vex IQ.
+Jeff Long,One of our other future goals is to try to get into the competitions.
+Jeff Long,"And so if we could do it with Vex IQ, that would be okay."
+Jeff Long,"But I kind of want to go with the Vexr X or RQ, the more advanced system that the high schools have."
+Jeff Long,"Just trying to figure out how we're going to do that, how we're going to get the district to buy into."
+Jeff Long,That is going to be the challenge.
+Jeff Long,So I think one of the biggest issues is kind of the funding.
+Jeff Long,"So just the number of kits that we have per student, like I had said before, another issue is how do you incorporate that transition from block coding to Python?"
+Jeff Long,"I find that especially at the level that we're at, middle school level, 8th graders, they have a lot of trouble kind of going from block coding to Python."
+Jeff Long,And so I like the integration that you guys are doing with being able to do block coding first and then transitioning over to Python.
+Jeff Long,But it's just a challenge to get the kids to learn how to implement the Python without losing interest.
+Jeff Long,So I think the biggest thing would be how to implement it in an LMS.
+Jeff Long,So kind of this is what three week program would look like.
+Jeff Long,This is what a six week program this is what a nine week program would look like.
+Jeff Long,"And just kind of giving the goals and we use Teaks, but the requirements per area."
+Jeff Long,"And just saying this is like a basic Stem course, or this is a basic Vex course."
+Jeff Long,"This is kind of more advanced and kind of outlining a little bit more, because right now, the problem with Vex PD that I have is it's a lot of information and just how to digest that information and then streamline it to what would fit our program."
+Jeff Long,So I really do appreciate all the step by step instructions inside PD Plus.
+Jeff Long,The lessons are good in PD plus.
+Jeff Long,"One thing I would probably ask to add is add a build series on specific builds video, like a video build series, so that way we can see exactly which part you want us to use."
+Jeff Long,"Sometimes it's hard to interpret based on the picture which part we're supposed to be using, or how it's supposed to line up, or even kind of which axle to use."
+Jeff Long,Right?
+Jeff Long,"So especially like when we do the gear ratio stuff, your pictures on the PD Plus are not clear on which axle to use and it doesn't really specify on this is the gear ratio for torque."
+Jeff Long,This is the gear ratio for speed.
+Jeff Long,This is the gear ratio for efficiency.
+Jeff Long,So just expanding on those areas so that way the kids kind of can or the educators trying to use PD Plus don't have to kind of experiment for themselves and figure it out.
+Jeff Long,"You guys are kind of putting it out there and saying, hey, this is exactly the builds that you need to have."
+Jeff Long,So I think the biggest success story for Vex is just getting the kids excited about robotics.
+Jeff Long,"Once the kids go into the different sections, they get introduced to the robot, they learn how to code."
+Jeff Long,"And then once you introduce them to that controller, you just see a little light in their eyes, right?"
+Jeff Long,Because they think it's like an RC car.
+Jeff Long,And so just giving them something fun and engaging.
+Jeff Long,And sometimes they're learning and they may not even understand that they are learning just because of the fun factor with the project.
+Jeff Long,So there's no real big failure example on lessons not working.
+Jeff Long,"I feel like the packaging that you guys have vex IQ specifically in, is super tight."
+Jeff Long,"So it's like real convenient for storage, but for kids and for students to be using that packaging."
+Jeff Long,I found that I have to put it into bigger bins so that way they can actually find the pieces.
+Jeff Long,"Because right now, especially on some of your connector pieces, the students, they'll spend 20 minutes looking this little box."
+Jeff Long,I actually dump it into a larger bin so that way they can find the specific parts that they need.
+Jeff Long,The other issue that we have found is students will sometimes lose little parts.
+Jeff Long,"And some of those are like, there's only two of those parts inside the box or three of those parts inside the box."
+Jeff Long,"Or if they lose one and they're trying to do some of these more advanced builds, all of a sudden, now we don't have the right parts to be able to do those more advanced builds because other students have lost them or done something with them that we can't find them."
+Jeff Long,And usually we do a pretty good job of sweeping around the area to make sure that we don't pick up any of those parts.
+Jeff Long,"But just the limitation if we're looking for, like, we need three pin connectors and there's only five pin connectors in the box, and you lose a couple of them, all of a sudden, after a couple of years, you've now not able to do that build anymore because the students have lost those parts."
+Jeff Long,"So maybe just adding some, especially the really limited little pin connectors or maybe even some of the axles, adding some of that to the build parts."
+Jeff Long,"Okay, thank you."
+Jeff Long,This has been a great experience.
+Jeff Long,Have a good day.
+Crystal Cap,Hi.
+Crystal Cap,My name is Crystal Cap.
+Crystal Cap,"I am from Chattanooga, Tennessee, and I currently teach 6th through 12th graders at the Chattanooga Girls Leadership Academy."
+Crystal Cap,"I am the middle school computer science instructor, and I'm the lead robotics coach."
+Crystal Cap,"We participate in the Vex VR, the program."
+Crystal Cap,I have a little bit of experience with Beck's IQ from last year.
+Crystal Cap,I used it with my computer science students.
+Crystal Cap,"Unfortunately, I was new to the school and found out that our system needed to be upgraded, so I've been teaching for about 13 years."
+Crystal Cap,"My goals are to inspire my students to be great problem solvers, use the engineering design process to explore careers that they may not have yet thought of."
+Crystal Cap,It's pretty exciting for us.
+Crystal Cap,We're trying to get our robotics team up and running.
+Crystal Cap,"This was the first season in a couple of years, and it was just really neat to see how the girls jumped in full force and tried their best."
+Crystal Cap,Even though we had some setbacks.
+Crystal Cap,Was pretty successful year overall for our robotics team.
+Crystal Cap,It would be great to have a guidebook for first year robotics coaches that really helped to set up first successful season.
+Crystal Cap,So this is what you need to do at the beginning of the season.
+Crystal Cap,"This is what the middle of the season, and this is what the end of the season looks like."
+Crystal Cap,And if you don't have any experience with the Vex platform to just kind of break it down into smaller parts so that it doesn't feel so overwhelming when you're just getting started.
+Crystal Cap,"We really kind of struggled to get the engineering notebook going, and then it was like, how do we get the programming going?"
+Crystal Cap,And it was a little overwhelming.
+Crystal Cap,Just the girls didn't have any experience putting together the robot.
+Crystal Cap,So that was a whole new learning curve for us.
+Crystal Cap,So just some extra guidance and getting those things done.
+Crystal Cap,I know that all of the stuff is out there on the web.
+Crystal Cap,"I kind of found bits and pieces that I needed at different points in the season, but I didn't feel like there was this comprehensive handbook that was like, here's how you can be successful in your first season as a robotics coach."
+Crystal Cap,"Some method of assessing progress for students, keeping some sort of a way to track data efficiently that's not so paper based."
+Crystal Cap,Something online where I can keep up with how students are doing in matches and how the robot is progressing and has all the rubrics at my fingertips so that we can track our progress as a team.
+Crystal Cap,I've really enjoyed the conference so far.
+Crystal Cap,"I think this was a really great way for me to learn and grow about how I can implement Vex more in my school, not just as a competitive robotics, but across our curriculum."
+Crystal Cap,"It would be great if next year there are some hands on components so that if you're a new coach and you've never built the robot, you have that experience."
+Crystal Cap,"Maybe more smaller sessions that you could explore, some things that other teachers are doing that would be more hands on."
+Crystal Cap,That would be a really fabulous addition to the conference.
+Crystal Cap,Thanks for this opportunity.
+Crystal Cap,I think that one of the big success stories for us this year was watching the students grow.
+Crystal Cap,I had a core group of 6th graders that were so excited to come in and learn new things and try to solve the Vex Challenge this year and go out to competitions and really watching the friendships they developed within our local league and how they came back.
+Crystal Cap,"And they're like, that didn't work."
+Crystal Cap,So now we're going to try this.
+Crystal Cap,"They really became really confident problem solvers, and that was amazing to see, and I can't wait to see what happens next season."
+Crystal Cap,"I had a couple of students, and I don't know if it's necessarily the Vex or if it's just the format of Vex competition."
+Crystal Cap,They just decided that they didn't enjoy robotics and they didn't want to continue participating.
+Crystal Cap,And that's okay.
+Crystal Cap,But I can't really think of anything that hasn't worked that I've tried.
+Crystal Cap,It's all been good.
+Crystal Cap,I think I lost.
+Tori Aldridge,So this is Tori Aldridge again.
+Tori Aldridge,My goals with Stem education are that we're in a rebuilding phase.
+Tori Aldridge,We're trying to rebuild our program.
+Tori Aldridge,"We're going from a program that hasn't had any capital investment in three years, if not longer, to trying to build a program that has at least one robotics team that's competitive of."
+Tori Aldridge,And we're working with our district to get ten teams in our area to be able to compete in our area.
+Tori Aldridge,"Specifically, I have been rebuilding the program using not just the supplies from Vex, but also by reaching out to community resources like the Denton Black Film Festival Technology Expo, where they wanted to teach, educate."
+Tori Aldridge,"They provide teaching, education and culture to try to encourage kids to participate in Stem careers and also bringing in speakers that talk about the different types of careers in Stem."
+Tori Aldridge,"And of course, coupling those resources with Code org's free curriculum, which allows kids to get in and make their own apps and make their own programs and learn a lot about the foundations of computer science."
+Tori Aldridge,I think one resource that would be really helpful would be having a way to kind of see the path forward for each level.
+Tori Aldridge,"For example, I started off with the vex IQ."
+Tori Aldridge,"I can tell that the equipment is blue and that it's different, but there was also a different playing field."
+Tori Aldridge,"There are different game pieces, and there are different things that I need in order to make that program work."
+Tori Aldridge,"Also, I was trying to navigate and understand just by looking at the website, whether or not I needed a classroom set of something and how I could do that on a limited budget when I just had kind of a budget that was presented to me."
+Tori Aldridge,So rolling this out in a single year doesn't seem as possible without having more vertical support.
+Tori Aldridge,"And so I'd really like to have a really clear path forward when it comes to demonstrating for my vertical team how this looks, once it's implemented, what resources a teacher really needs in the classroom in order to implement this program."
+Tori Aldridge,"And then from there, trying to get more horizontal support with being an ambassador for my community and my school community and enlisting other teachers to help me."
+Tori Aldridge,"I've been an ambassador for other programs before, like I was a Talk Stem ambassador and the Texas foundation for Women supported our program and helped me to really recruit more diverse students as well as more girls into our program."
+Tori Aldridge,"And so programs like that that already have a model for ambassadors to utilize as they are sharing their evangelistic message of why these types of programs are needed is really, really helpful."
+Tori Aldridge,Also bringing people like our Kate Coordinator.
+Tori Aldridge,Kate stands for Computer and Technology Education or Career and Technology Education.
+Tori Aldridge,"Bringing our Kate Coordinator to events like this and having more than just a technology teacher presence, but having that vertical presence as well is extremely helpful for creating a culture and a climate that embrace this system and embrace different mindsets."
+Tori Aldridge,"The last thing that I would add is that with Mindset training, I think you really need more ambassadors."
+Tori Aldridge,"And that's something that I really try to do, is presenting more professional development topics and really talking to my peers and colleagues about how we can implement cross functional Stem projects like working with the music teacher to do."
+Tori Aldridge,A music and Stem program with microbits or working with a math teacher to show her how she could use one of my vex IQ kits.
+Tori Aldridge,In presenting a lesson.
+Tori Aldridge,Those things are things that really help make this a culture shift and a mindset shift.
+Tori Aldridge,And what I found is that a lot of teachers still have the mindset that technology and Stem is only for AP honors or gifted and talented kids.
+Tori Aldridge,"I have done a lot of work in my classroom to bring in inclusive programming, programming that is scaffolded and differentiated for neurodiverse learners and different ability learners, as well as program that embraces racial, financial or socioeconomic equity as well as gender equity."
+Tori Aldridge,And a lot of teachers aren't ready to do that or haven't really learned the language of embracing diversity and equity.
+Tori Aldridge,"And so helping to develop resources that make it easier to share, that would be really helpful, really helpful."
+Tori Aldridge,"When I was in the Talk Stem program, they have a repository of video clips from people using their products and people using technology tools and people talking about their careers that really help share their message and make it easy to share and spread in the classroom."
+Tori Aldridge,And I was able to share that repository with any teacher who was interested at my school.
+Tori Aldridge,"And so having something like that for Vex that's easily shareable and easily allows us to be an evangelist for the message of Stem education for all, really would be helpful."
+Tori Aldridge,So I think packages that are kind of like a grab and go or the equivalent to what you would see in the clothing industry or retail industry as ready to wear.
+Tori Aldridge,Having packages where I don't have to piece together all of the things would be really helpful.
+Tori Aldridge,When I'm trying to sell to my Kate director or to my principal or to even the superintendent that I need X amount of dollars for a program.
+Tori Aldridge,It's not really helpful to me being brand new to have to put that package together myself and go and get a specialized quote for a group of customized things that I'm not really sure is what I need yet.
+Tori Aldridge,"I know it's disappointing for students to come into the classroom and have robotics kits that don't have a floor, or have a floor that doesn't have any games, or have one game, but not five different games for me to implement throughout the school year."
+Tori Aldridge,And so implementing it in a really half baked approach doesn't lend itself to maintaining the enthusiasm of the students and doesn't lend itself to having to gaining more ambassadors and growing our program.
+Tori Aldridge,"Also, I love the idea of starting with a robotics team."
+Tori Aldridge,"Whenever I looked at the robotics team information, though, it was a little bit jumbled."
+Tori Aldridge,There was a pretty antiquated looking user interface on the website and I had to navigate.
+Tori Aldridge,"I had a difficulty navigating between that website and the website where I actually order things and the community, because I wasn't really in a community at the time."
+Tori Aldridge,I wasn't in the PD Plus community yet.
+Tori Aldridge,So making the navigation between those three more seamless and easier to access would only expand the number of people that I could share this with and have a greater ease of implementation.
+Tori Aldridge,I think I heard that you guys were already developing out in the PD Plus system more resources for teachers.
+Tori Aldridge,I went to the Vex website and saw a lot of the educational resources that you had even prior to our school joining the PD Plus program.
+Tori Aldridge,"I really appreciated being able to come to Dallas to have the conference, and I also appreciated the fact that you guys have a scope and sequence available and you already have builds that can be done and so on and so forth."
+Tori Aldridge,"I just think communicating more succinctly and having it in a more forward facing, accessible place would really improve our ability to implement the program quicker, faster."
+Tori Aldridge,"We started out this year piloting robotics classes, and this is the second year, and we kind of have been piecing together what we were using with Plcw and then trying to ease into more of a Vex thing."
+Tori Aldridge,"And then we were given these V Five robots for a middle school course, which I think was not the right choice."
+Tori Aldridge,I think the Vex IQ would suit them better.
+Tori Aldridge,But what we're going to need is to really hit the ground running next year with all the Vex IQ things so that we can set up a floor and be able to have our games and be able to really go full throttle with the entire scope and sequence and maintain the enthusiasm of our students.
+Tori Aldridge,"The second thing that I did is I've been implementing the robotics team, and I kind of touched on this before, but I would really like to see my robotics team be able to thrive and having those resources be something that's less crowdsourced and more ready to implement or ready to wear, as I would compare, it would be really helpful."
+Tori Aldridge,"I did have students that came from other school districts, and they were very excited about being in robotics class."
+Tori Aldridge,And this year has been a transition for us as we're trying to grow our program really from the ground up.
+Tori Aldridge,So it was kind of a disappointment for them that we didn't have all the things.
+Tori Aldridge,"But I can tell you I heard glowing reports from the students who came from places where their schools had the bags, and I think it even would hinder our ability to compete for those kids, because now that virtual school is a possibility and home school is becoming more doable for students as they get older."
+Tori Aldridge,Both the parents that I've talked to and the students that I've talked to have told me that it's having a robotics class that really made their student interested in coming to school at our school.
+Tori Aldridge,"And I think that if you're going to be in education and you want to see your census numbers maintained, I think that it's going to be imperative to have programs like Vex fully implemented at all levels in your school district to keep that enthusiasm and engagement up and to really keep students coming back into the local classroom at their local school."
+Tori Aldridge,"Okay, so for the students that I am not able to reach, typically, once they find out that the competition is on a Saturday and that they would not get to miss school, they get turned off."
+Tori Aldridge,I'm not sure why other than the fact that maybe they just want to miss school.
+Tori Aldridge,But I do have quite a few students that when I showed them the videos about competition and tried to get them engaged.
+Tori Aldridge,"As far as seeing the vision as to where we are headed with our program, their feedback that I've gotten has been oh, I was really excited until you said it was on a Saturday."
+Tori Aldridge,I don't want to give up my Saturday to go.
+Tori Aldridge,So that was the feedback that I had from them about being engaged.
+Tori Aldridge,Then.
+Tori Aldridge,"As far as a program that fell flat, I haven't really done very many programs because I've had incomplete sets."
+Tori Aldridge,"And I can't stress enough how, as an educator, how frustrating it is to order what you think is a kit and then not have all the bells and whistles to make that work."
+Tori Aldridge,"Like having two sets, which is what I ended up getting because that's all I could have on my budget."
+Tori Aldridge,Or that's all you had at the time.
+Tori Aldridge,"Having only two sets was really a hindrance because it's like I was able to order the two complete sets, but the students that I have are just way too numerous for that."
+Tori Aldridge,"And I love the way our administration has really made it so that most of the students are taking our class through a technology wheel, but I won't get that chance again."
+Tori Aldridge,And so this is one opportunity that I've had to have a captive audience.
+Tori Aldridge,"And that was just kind of a botched opportunity due to the fact that I couldn't order enough of the materials and I didn't have enough of the materials in order to make complete activities and complete sets or even do a basic build, which I had found on your website."
+Tori Aldridge,Thank you.
+Tori Aldridge,Hi.
+Tori Aldridge,My name is Tori Aldridge.
+Tori Aldridge,"I'm a technology teacher from Denton, Texas, which is a suburb right outside of Dallas Fort Worth."
+Tori Aldridge,I have been using Vex V five controllers.
+Tori Aldridge,They were kind of given to us from the high school program when they had some extra funds.
+Tori Aldridge,When I came in three years ago.
+Tori Aldridge,"I was a brand new teacher, and."
+Tori Aldridge,"I was taking over from someone else who had gone, and the program had kind of lost all of its equipment."
+Tori Aldridge,So we had no what I call computer brains.
+Tori Aldridge,We didn't have any brains for the robots.
+Tori Aldridge,"We had some cogs and some wheels, but a lot of things were either missing or in disrepair."
+Tori Aldridge,So we were able to get some extra funds to purchase some Vex IQ.
+Tori Aldridge,"Set, but I was only able to get two."
+Tori Aldridge,"I have about 60 no, about 45 6th grade students that use the Vex IQ."
+Tori Aldridge,And then I have about 120 students.
+Tori Aldridge,"That are in Level One courses, which."
+Tori Aldridge,We call them Level One robotics.
+Tori Aldridge,And then the other students are in.
+Tori Aldridge,A Level Three course where they are taking Code AP computer Science Principles course.
+Tori Aldridge,So we're in transition.
+Tori Aldridge,We're really trying to recruit a lot.
+Tori Aldridge,More kids this year because we have not had a robotics program at our school.
+Tori Aldridge,But as a computer science teacher and someone who was trained in computer science.
+Tori Aldridge,I'm very keen on giving them a way to apply their knowledge with something.
+Tori Aldridge,That they can touch and feel.
+Tori Aldridge,And they've been very excited about using.
+Tori Aldridge,The Vex system for building robots.
+Tori Aldridge,Okay.
+Jacob Roberts,I am Jacob Roberts.
+Jacob Roberts,I am one of the assistant program managers for our competitive Robotics in San Fran Valley school districts.
+Jacob Roberts,I work alongside great team of leadership that helps us run lots of competitions for hundreds of teams within our district in Colorado.
+Jacob Roberts,So that's a great opportunity.
+Jacob Roberts,"I don't teach any courses, but I help run some PDS for our teachers to get them ready to coach teams."
+Jacob Roberts,And then I also facilitate and run our student team that runs all of our tournaments throughout the season.
+Jacob Roberts,"They set up, do all the refing scorekeeping and then tear down those tournaments for us every weekend."
+Jacob Roberts,"Overall, with Stem education, we're just looking to continue to grow."
+Jacob Roberts,"We've been doing Stem since I was a student in our district, using Vex since I was a sophomore in our district, maybe a freshman."
+Jacob Roberts,"And so continuing to grow, that making sure that all of our schools are able to access the Stem education that we provide, particularly through Vex."
+Jacob Roberts,"We try to make sure that all those opportunities are equitable and accessible during the season and prior to and all of that, make sure all of our coaches are able to understand the game themselves and be able to coach teams throughout the season."
+Jacob Roberts,"I think one of the things that would help us go beyond where we're currently at is, one being able to have a communication tool that allows us to reach out to our teams easier than just sending out an email or a newsletter every week."
+Jacob Roberts,And then the other thing is I get a lot of questions in my position from coaches on very specific topics.
+Jacob Roberts,"And while I can personally go and search through the Vex forums myself, the Q and A's and all that, and send those coaches to those locations, being able to be more knowledgeable on that myself without getting too into the weeds of doing an entire robot build would be huge."
+Jacob Roberts,"Mean, maybe outside the scope of what we're talking about with the Educator Conference, but one of the things that comes to mind for ease and accessibility within our program at the scale we're at in St."
+Jacob Roberts,"Brain is just simply looking at portability, being able to get resources between schools and having that available when it comes to competitions, getting all the parts that we need to a competition easy and things like that."
+Jacob Roberts,So that's what I'm always looking at as kind of the person who looks at moving all the things around throughout the season.
+Jacob Roberts,"In general, I've enjoyed being a part of this kind of Vex ecosystem from being a student who helped run tournaments to now being in the position of teaching students how to run tournaments and being that resource for coaches."
+Jacob Roberts,So I can't necessarily think of anything off the top of my mind.
+Jacob Roberts,"I'll spend a second here to think at the very least going through my mental kind of cabinet I don't think of anything that I have a qualm with from my position, running tournaments and making sure that we're scaling well within the district."
+Jacob Roberts,I get to work very closely with our high school student team and seeing them develop as professionals adjacent to Vex.
+Jacob Roberts,"They're not necessarily competing in those competitions, but they're working around with all that same stuff they're doing all the setup, all the tear down, interacting with the teams, interacting with our key volunteers like our head reps and our judge advisors."
+Jacob Roberts,And so being able to kind of watch them grow.
+Jacob Roberts,Similar stories to what I've heard at the conference so far this year.
+Jacob Roberts,Some of those stories of coming out and finding your position within a team and all that.
+Jacob Roberts,So that's been really cool perspective for me.
+Jacob Roberts,"Yeah, in my position, I'm not working too closely in that one on one space."
+Jacob Roberts,"But I've done a few of our professional developments for our teachers in the district, getting them ready to coach new teams and be ready to build their program on their end."
+Jacob Roberts,"And so some of those frustrating pieces of not being able to get them to be able to build their own robot in a timely manner and be ready for our kind of end of day competition that we're doing during those PDS, we get those teachers in the room."
+Jacob Roberts,I run the PD as a team.
+Jacob Roberts,"I'm the coach and the mentor, and they're all the students building robots."
+Jacob Roberts,"And so getting them to that point where they can have a functioning moving robot at the end of the day, that's one of those funny, little missed parts of that education."
+Jacob Roberts,Gives me enough.
+Bernie Contreras,"So this is our first year running Vex over at our school in Los Angeles, California."
+Bernie Contreras,"And what we want to do, or what we hope to do, is to incorporate robotics throughout the core subjects."
+Bernie Contreras,So not necessarily looking to expand more buy in throughout the campus.
+Bernie Contreras,I currently teach fifth grade.
+Bernie Contreras,One of the other teacher that's doing it is also an upper grade teacher.
+Bernie Contreras,We just got in one of the lower grade teachers this year.
+Bernie Contreras,So we're just trying to get buy in throughout the school to support our robotics.
+Bernie Contreras,"We're using the Vex IQ and the Vex Go, and the Vex one, two, three with the lower grades, but we're using it."
+Bernie Contreras,"But we're trying to get buy in so that other teachers use it as part of their daily curriculum to truly meet the needs of not only our students, but also the title of Stem or Steam School that we have."
+Bernie Contreras,Okay.
+Bernie Contreras,"I am Bernie Contreras, fifth grade teacher over at Montague Charter Academy in Bokoima, California."
+Bernie Contreras,"I think one of the primary things that I'm looking for with coming out, we don't have a team representing us in World."
+Bernie Contreras,"We made it as far as State, but the reason why we came out is, again, to get teacher buy in."
+Bernie Contreras,"So definitely looking for strategies to be able to present this in a way that is not only beneficial to the students and helps to create a rigorous curriculum, but also something that is reasonably attainable for teachers to be able to do, given the nature of the faculty."
+Bernie Contreras,"Over at our school, we have a lot of older teachers that are used to the traditional format with teaching, with directed instruction, teacher led instruction where they're teaching from the board."
+Bernie Contreras,"And so to incorporate technology, I'm trying to find very simple ways to be able to display it, which I've seen so far today."
+Bernie Contreras,"So that's what we're really hoping for today, finding ways where I can present this to burst my grade level and then to be able to go beyond that and show that with the examples that we're showing with Vex."
+Bernie Contreras,"One, two, three."
+Bernie Contreras,I think those hit it right on.
+Bernie Contreras,"That's more what I'm looking for, some sort of development."
+Bernie Contreras,"If I understood the question correctly, I think that the program is sufficient for me right now."
+Bernie Contreras,I would say that I'm very just getting myself oriented with the program.
+Bernie Contreras,This is our first year having it.
+Bernie Contreras,"I did see it last year, but we didn't really use it with the students."
+Bernie Contreras,"But I think what would make it easier for me, really, is just more experience with it at the moment."
+Bernie Contreras,"Beyond that, I don't have any really good constructive feedback to be able to give on that at the moment."
+Bernie Contreras,Okay.
+Bernie Contreras,I think one of the things that I really enjoyed about today's seminar so far has been how they presented how vex was able to be utilized as a resource for our special ed population.
+Bernie Contreras,"I think if I could see how we could implement this, because I also am working with the gifted program at my school."
+Bernie Contreras,How can we implement this with the gifted?
+Bernie Contreras,How can we implement this with our English language learners?
+Bernie Contreras,How could we implement this across curriculums?
+Bernie Contreras,"I did hear talk about Vex being a tool that teachers can use to go across the curriculum, to be able to include multiple subjects."
+Bernie Contreras,"But if we could see more of that, I think that would be good."
+Bernie Contreras,"I did take a lot of notes, and it did generate a lot of ideas, but I'm hoping to see more of that again, since I'm hoping to take back what I learned here, to be able to develop professional developments or really just to display how beneficial this program is for the demographics of my school."
+Bernie Contreras,I would love to see more of that's.
+Bernie Contreras,My sincere I didn't catch that question.
+Bernie Contreras,I'm rewinding it right now to hear it again.
+Bernie Contreras,"Well, if I can share the story, I couldn't necessarily pinpoint one story that maybe you guys haven't heard already or doesn't fit the paradigm right?"
+Bernie Contreras,Because we've had all of those stories.
+Bernie Contreras,The narrative of student disengage introduce Vex.
+Bernie Contreras,"But I think one of the biggest highlights for me, so that the community that I service, the neighborhood that our school is in, is the same neighborhood that I grew up and was raised in."
+Bernie Contreras,"And students primarily are focused on athletics, on finding success in entertainment."
+Bernie Contreras,"And so to hear my students, the kids in my neighborhood, the kids that have all of the pitfalls that neighborhoods similar to Paquima have to actually be considering robotics or engineering or anything within that field as a potential career to me is badass."
+Bernie Contreras,"And I don't know if I'm allowed to cuss on this or not, but it makes me so happy to see that and to hear that."
+Bernie Contreras,"And when we made it to State, we were recognized by our local government for doing that."
+Bernie Contreras,"When I would see these news stories in the past, I guess because I couldn't relate to them, they weren't hitting home."
+Bernie Contreras,This is amazing.
+Bernie Contreras,We've had some local celebrities because of their choice of going into entertainment or going into the field of athletics.
+Bernie Contreras,"But this is so much more realistic, in my opinion."
+Bernie Contreras,I'm all about USC.
+Bernie Contreras,"I work also with USC, so I apologize if anybody hears a Bruin or UCLA, which is also a great school."
+Bernie Contreras,"But I tell my students there's a much greater chance if you were to pursue robotics, to be able to pursue a career in it."
+Bernie Contreras,"I mean, the numbers are in their favor."
+Bernie Contreras,So to have a program like this to pull them in is almost similar to these clinics that these different organizations are running.
+Bernie Contreras,"We have LAFC that runs a soccer clinic, and we've had the Clippers run clinics in our neighborhood."
+Bernie Contreras,"And so to have robotics run these programs and get kids interested, man, I could go on for days about this, but I also want to head out to lunch."
+Bernie Contreras,I'm going to go on to the next question.
+Bernie Contreras,"All right, thank you, guys."
+Bernie Contreras,Have a blessed and beautiful one.
+Bridget Myers,"Right, my name is Bridget Myers."
+Bridget Myers,I teach at Highland Park Middle School.
+Bridget Myers,"This is my 9th year teaching that I started off as a actually health teacher and coach, worked my way up to science, and now I'm teaching engineering and teaching graphic design."
+Bridget Myers,"So I've always had an interest in coding and robotics and building, and I love that I get to do that."
+Bridget Myers,Now.
+Bridget Myers,We use the Vex IQ robots.
+Bridget Myers,It's our second year using them.
+Bridget Myers,"Our high school uses the Vex V five, and they have a robotics team and robotics classes, and they actually do compete."
+Bridget Myers,Our middle school does not yet compete.
+Bridget Myers,We just use robotics in the engineering classroom and have just been looking for ways to implement it into our other classes and really introduce it from where I use it in the 8th grade to our fifth and 6th graders that are on the other side of the building.
+Bridget Myers,I actually have a couple of goals with Stem education.
+Bridget Myers,So one of the first ones is going to be just getting more girls in the classroom.
+Bridget Myers,So I have two engineering classes right now.
+Bridget Myers,They're the CTE classes.
+Bridget Myers,"One is all boys, 22 boys, and the other one is six girls and 18 boys."
+Bridget Myers,And so both do well in there.
+Bridget Myers,But I would love to see more equity in that.
+Bridget Myers,"Obviously, being a female teacher myself and just coming from an all girls high school where I can see just what women can do, that is one of my goals."
+Bridget Myers,Another one of my goals is getting robotics as a standalone electives class for our 7th graders and for our 8th graders.
+Bridget Myers,"So having a class, having more scaffolding in our robotics program."
+Bridget Myers,"So there is a high school credit, robotics one and two class that they can take at the high school."
+Bridget Myers,"So really looking at how can we start adding this earlier and earlier, and how can we make sure that what they're doing is adding on and complementing without making the curriculum redundant?"
+Bridget Myers,So I would like ultimately to make it district wide.
+Bridget Myers,We have done that with our languages other than English.
+Bridget Myers,So now we have a K twelve Spanish program.
+Bridget Myers,And so I know that the district is interested in doing that.
+Bridget Myers,Obviously it's just about showing value.
+Bridget Myers,"So if I can start by making elective classes in 7th and 8th grade just for standalone for robotics or implementing them within another type of class, then we can really see that as a program that goes throughout the district."
+Bridget Myers,The other one is just about another goal is just personally.
+Bridget Myers,"So obviously I'm newer to coding and robotics, although I know how to code and I have had some experience with building robots."
+Bridget Myers,That's not what my training comes from.
+Bridget Myers,And so I have to make sure that as I'm building these classes that I'm making sure that I am putting myself in a position to just constantly be learning and growing so that I can help my students do the same.
+Bridget Myers,"So what I've been looking with looking at is just again, just increasing my knowledge base."
+Bridget Myers,"I think also it would be taking, yes, some cookie cutter courses and being able to implement those in the classroom, but also the next level of understanding how to teach better in the day to day."
+Bridget Myers,That is going to drive student initiative and student inquiry.
+Bridget Myers,"So I can get the students doing the activity, I can get the students engaged in the activity."
+Bridget Myers,"But how can I get them invested in now making, creating, designing where they feel comfortable doing and exploring and failing and succeeding on their own?"
+Bridget Myers,"I'm not sure if that makes sense, but I really want to be able to let them continue to make their own decisions and make their own research, working collaboratively in a team."
+Bridget Myers,"And there are a lot of really good products that I've used as far as lessons go, insects on that."
+Bridget Myers,But also I think that just takes time and making sure they like to be handheld sometimes with the robotics if they're new with it.
+Bridget Myers,So they want me to be with them every step of the way with the code and with the build and does this look good?
+Bridget Myers,And so having them be confident in their own design process is something that I need to get just better at as a teacher.
+Bridget Myers,So what would make my life easier?
+Bridget Myers,"We've had some issues with just software and getting we use one to one Chromebooks with our students, and so to get coding on the IQs, we haven't had success with the web based, and I think that may just be because of some of the restrictions on the Chromebooks that our districts have put on."
+Bridget Myers,"But if there were an easier way for students to have a hub where they could code together or ideate and almost have like a digital notebook that actually if there was something through Google or something like that, that would be a lot easier."
+Bridget Myers,I found myself I make my own slide deck from what I get out of decks whenever we're doing the program.
+Bridget Myers,"So we just did Tug of War competition, and we just also did what was the one that we just did after that?"
+Bridget Myers,It was the treasure hunt.
+Bridget Myers,So we did tug of war and treasure hunt.
+Bridget Myers,"So I took the modules from that one through five, and I would go in and I would download every doc, save my own copy."
+Bridget Myers,"And then I would take what was from the website, I would copy and paste all the text, and I would paraphrase it or change it or whatever we need to in the graphics and put that in a slide deck to walk the students through it."
+Bridget Myers,"So that I found was really useful, especially for me and for them, when I would put it into a slide deck and get put time limits up on the board of it of today, we're starting Treasure Hunt, and here's what our goal is."
+Bridget Myers,"And then I'd say, okay, take five minutes, ten minutes with your team to work on pseudocode, to do XYZ, or take five minutes to draw in your notebooks what you did or what you've completed."
+Bridget Myers,So having that kind of stepped out working in the classroom has made it a lot easier for me.
+Bridget Myers,"But it took some time to collect all those materials, so then I could use them myself in the slideshow as I'm teaching and make sure that I didn't go on any tangents or get off track, and then also make sure that I could push everything out to the students in Google Classroom."
+Bridget Myers,"I also took and changed the quizzes that were in the notebooks, and I put those into Google Forms so that the students could have immediate feedback whenever they took those to make sure that they were understanding the concepts."
+Bridget Myers,All those check for understandings are put into Google Forms.
+Bridget Myers,"And now google has these practice sets which works, but I think there's still some quirks in that."
+Bridget Myers,"So Google form is still a bit better, but they could get the immediate feedback on if they were ready to move on."
+Bridget Myers,So I said their group had to get a certain grade in order to move on.
+Bridget Myers,"And for us as a class to work on the next challenge, make sure there's no man left behind."
+Bridget Myers,I think continued access to Vex IQ.
+Bridget Myers,"I wish I had done a bit more to do smaller coding challenges in sorry, it's Vex VR is what I'm talking about."
+Bridget Myers,"To do smaller coding challenges in that so that whenever we got to the coding parts of Treasure Hunt, specifically, that we could have had more students feel like they were fluent in the coding portion itself."
+Bridget Myers,"So, honestly, like many challenges in Vex VR that aid with some of those challenges, or, like, if those could point back and forth, I think the immediate feedback of the coding on that was actually invaluable, and I'm planning on using that more next year."
+Bridget Myers,"That also, I think just access to the Stem labs, because that's really what I've mostly been using, has been so helpful."
+Bridget Myers,"I was planning on doing robotics for a month in engineering, and it ended up being a full nine weeks, and that was honestly really useful for us."
+Bridget Myers,And I think the kids enjoyed it as well.
+Bridget Myers,They did get frustrated in the Treasure Hunt.
+Bridget Myers,They had a really hard time with the angles on the drivetrain and making sure that it turned.
+Bridget Myers,"And so when we came time for our actual competition, one of my class periods, we didn't have a single robot fully complete the challenge because I had switched up the order of the pucks, and when we were practicing it, they had stayed in the same one."
+Bridget Myers,And so having the same color multiple times in a row messed up a couple of the robots.
+Bridget Myers,But it's been a good challenge.
+Bridget Myers,They've been troubleshooting on the way.
+Bridget Myers,Having access to everything in Google has been really helpful.
+Bridget Myers,"It's been a bit annoying having to go in and save, but I don't really know if you can do that another way."
+Bridget Myers,I think that's kind of the nature of Google Drive.
+Bridget Myers,I'm trying to think of what else in Beck.
+Bridget Myers,"If there's anything in Beck, I would like more information on ways to continue doing this cross curricular and that may be something in Vex PD Plus that I am not seeing because I didn't do it this year."
+Bridget Myers,"I did it last year, which is how I'm at the conference."
+Bridget Myers,But it is something I'm planning on hopefully enrolling in again in the fall.
+Bridget Myers,But more ways to I think there's a lot of power in having something built by older students and presented to younger students and giving them the opportunity to be the teacher and to be the problem solver.
+Bridget Myers,And I think that builds a lot of confidence and that also helps get our younger kids invested in what's going on and gives them something to look forward to.
+Bridget Myers,"So my question to one of your staff was how could I take the Vex IQ that we're doing in engineering, have the students design or program a robot and then take it to our fifth or 6th graders?"
+Bridget Myers,Take it to those kiddos that are in just any their advisory so it's any sort of teacher and present it to them and give them a challenge to do with a robot that's built.
+Bridget Myers,"So I don't know if that's possible, but that's a question I'd like to see if we can I love the idea of bringing a robot to our friends in special education and also giving the opportunity for students to help students in that."
+Bridget Myers,So I would be happy to give more feedback.
+Bridget Myers,I think that's all I got for now.
+Bridget Myers,So using it in the engineering classroom has really given me the chance to see students problem solve and get hands on experience with all facets of the engineering design process.
+Bridget Myers,It was really cool.
+Bridget Myers,I got to have our administrators come in when we did our Beckhtucker War challenge and some of our students and teachers from other classes.
+Bridget Myers,"And what was wonderful is that there was the spirit of the competition, but also you could see that the students were trying in the few minutes they had in between matches to improve on their design and they were seeing what other kids were doing."
+Bridget Myers,And I think they were learning and taking away so much just from that.
+Bridget Myers,"And so I think I'm reading a book about just stemming classrooms and that presentation, how you actually what you do with your end product is so important."
+Bridget Myers,"And so I think what we do, what you all are doing with the competitions that are here, like X Worlds, but also just competitions within the classroom and problem solving within the classroom, to be able to present for more than just a grade and be able to present for more than just a teacher is such a powerful thing."
+Bridget Myers,And so taking that and using that in different ways has been something that has given back just in a lot of ways for our students.
+Bridget Myers,So I actually recently had some students that were kind of defeated and said they still didn't quite understand coding.
+Bridget Myers,"And that was surprising because we had been in it for a while, but it was interesting that we'd gone through everything with VR and they'd had robots to work but really had taken the backseat."
+Bridget Myers,And part of that was my fault.
+Bridget Myers,I did groups bigger than I should.
+Bridget Myers,But you really are fighting when students get frustrated that they shut down and they just don't want to participate.
+Bridget Myers,And so just making sure that that's why I talked about doing more of XVR from the start.
+Bridget Myers,And I think leading in more coding before actually getting to robotics would be helpful because there are some students that already know some python and already know some coding and then there are some that really have just kind of avoided it because it's this big scary thing that they are intimidated by.
+Chris Gingri,"Okay, my name is Chris Gingri, and I teach at Buna elementary."
+Chris Gingri,"I teach K through five engineering lab, and and that's where students come in."
+Chris Gingri,"I have one grade level a week with their science teachers, and they come in, and we do an engineering design build based on our challenge, based on what they learned in science before they came in."
+Chris Gingri,"I've integrated robotics with that using the Dash from WonderWorks and the Sparrow from Spiro, and they are learning coding as well."
+Chris Gingri,Starting in kindergarten.
+Chris Gingri,I have vex goes.
+Chris Gingri,I've just gotten my set of Vex Goes in to start an after school robotics club with fourth and fifth grade.
+Chris Gingri,"Eventually, it'll go to third grade, and I haven't used much Vexico yet."
+Chris Gingri,"I've done all the training, but this is our next step."
+Chris Gingri,"Our junior high and high schools do Vexco competitions, and so we're bringing it down to the elementary level starting next year."
+Chris Gingri,My experiences with Vex are limited other than professional development that I've done and playing around with it myself.
+Chris Gingri,So I'm excited about what's going to come.
+Chris Gingri,I think that's all the questions for this slide.
+Chris Gingri,"So our goals with education that science teaks for Texas in 2024 are changing, and they're adding an engineering lab component to all of the science peaks."
+Chris Gingri,And so what we did this past year was that we started the engineering lab where the students come and do that engineering build based on their science peaks.
+Chris Gingri,"And my goal is as far as BECs goes and as far as Stem goes, is to have Stem engineering in all subjects."
+Chris Gingri,"I mean, that's a big goal, and it scares all the other teachers."
+Chris Gingri,But our goal with the coding is I want to start pushing the robots out of my lab and into the classrooms where the teachers are implementing activities to go with their lessons.
+Chris Gingri,So I'm babystepping them through.
+Chris Gingri,"They're coming into the lab and learning some of it, and they're kind of getting scared about when you say the word coding."
+Chris Gingri,"Oh, we don't do coding."
+Chris Gingri,So my goal is to get them comfortable with the technology and show them that they can use it and that all subject areas can do Stem.
+Chris Gingri,Not just science.
+Chris Gingri,Some of my impediments are understanding coding.
+Chris Gingri,"If you're a regular Ed teacher, coding is something that's a challenge."
+Chris Gingri,"I have taken upon myself to learn computer sciences last year to learn how to write JavaScript, but not every teacher is going to do that."
+Chris Gingri,"And so when my science teachers come into the lab with their students and I say, oh, we're going to code today, they have this knee jerk reaction, oh, coding."
+Chris Gingri,That's computer stuff.
+Chris Gingri,We don't do coding.
+Chris Gingri,"So my biggest impediment is getting teachers to realize that, hey, it's just dragging and dropping blocks."
+Chris Gingri,It's not this great big you're not writing JavaScript or Python.
+Chris Gingri,"So getting the teachers to understand that, hey, this is not that difficult to do."
+Chris Gingri,This is kindergartners can do it.
+Chris Gingri,We as teachers can do it.
+Chris Gingri,"And getting the teachers to want to add that aspect of Stem into their classrooms when they have so many other things that they're having to do, and we're asking them to do one more thing."
+Chris Gingri,So my biggest thing is how can I teach the teachers or where's the professional development to teach the teachers how to quickly and easily integrate robots into their teacher?
+Chris Gingri,"I think they maybe videos for me to be able to show teachers, hey, this is what we could do with this robot."
+Chris Gingri,Look how easy it is.
+Chris Gingri,Because I can show them.
+Chris Gingri,"But sometimes me showing them and then maybe them having a professional development video to be able to step, they could watch it step by step and say, okay, do this first, do this second."
+Chris Gingri,This is how you can do this next.
+Chris Gingri,There's not very much professional development out there for teachers to incorporate robotics into curriculum.
+Chris Gingri,"And if I say, okay, you can incorporate this into a read aloud, they just get glassy eyed, like, oh, I wouldn't even know how to start."
+Chris Gingri,So maybe simple step by step instructions for teachers.
+Chris Gingri,This is how you would incorporate it into a read aloud or incorporate it into a math less.
+Chris Gingri,"I love the Vex goes, and I'm just now getting to experience them, and I've just been introduced to the Vex."
+Chris Gingri,"One, two, three."
+Chris Gingri,So I'm in love with the product.
+Chris Gingri,"I think you'll have a great product, a great platform."
+Chris Gingri,"I've looked at the summer camp things, and I love how you have it all laid out where there's no planning needed."
+Chris Gingri,"I can just print the stuff and say, okay, this is what I need to do."
+Chris Gingri,"You already have all of the step by step agendas done, the timing done, you've done a lot of great thinking about that."
+Chris Gingri,"So if we could take it from the camp level down to, okay, this is how we can do it in a classroom setting one lesson using that camp format where it's all laid out completely, where the teachers don't have to do any guesswork, I think that would be perfect."
+Chris Gingri,Thank you.
+Chris Gingri,"So the success story we have for our little title one school district is our high schoolers have done the Vex IQs, and they go to competitions and they can't compete because they don't get any robotics until high school coding or anything like that."
+Chris Gingri,"And so this past year, the junior high teacher started Vex IQs with the middle school."
+Chris Gingri,"And again, it's just like, okay, they come into middle school, they have no background."
+Chris Gingri,"And so we're now brought it, the Vex down to elementary."
+Chris Gingri,So that's a success because we're able to vertically align from elementary all the way through our high school.
+Chris Gingri,"And also, our junior high has always only offered art and band as an elective, and we were able to successfully push adding a robotics choice."
+Chris Gingri,"So starting next school year, our 6th and 7th and 8th graders can choose to do a robotics elective with the Vex IQs."
+Chris Gingri,"Instead of just having the choice of art or band, they now get to the choice of art, band, or robotics with the Vex IQ."
+Chris Gingri,So I think that's a success story for the three of us that have tried really hard to collaborate and vertically align it and push it to our school board.
+Chris Gingri,"And also, it's a success because now our students, even the ones that aren't going to ever compete, they will get the opportunity to learn this and learn all the things that go along with coding and robotics in an elective setting."
+Chris Gingri,So it's exciting for us and it's exciting for our students.
+Chris Gingri,"Well, I can't wait to have those experiences."
+Chris Gingri,I'm looking forward to the Robotics club next year.
+Chris Gingri,We're just starting.
+Chris Gingri,"So next year at this conference, I'll have an answer for you."
+Chris Gingri,"Okay, that's good questions."
+Randall Carter,Okay.
+Randall Carter,This is our first year.
+Randall Carter,We've been very impressed with the educational professional development training material that's been on the website.
+Randall Carter,And being here at the conference has been very impactful thus far.
+Randall Carter,The staff has been great and resourceful on everything that we've needed thus far.
+Randall Carter,The communication has been great.
+Randall Carter,"I don't have any areas of improvements at this time, but all I would say is our experience has been to this point it's been great and we look forward to working more with the organization."
+Randall Carter,We just started utilizing Vex IQ.
+Randall Carter,It's been a great success for our students.
+Randall Carter,They have been very successful in the process thus far.
+Randall Carter,We're preparing them for robotics competitions for the 23 24 season and it's been very impactful what they've learned using the Vex IQ.
+Randall Carter,The process has been very empowering to our youth thus far.
+Randall Carter,Most of our youth that are participating in a program go on to be majors in engineering or technology majors.
+Randall Carter,It's been very impactful.
+Randall Carter,Some challenges have been some students not really able to adapt to it right?
+Randall Carter,But that's a small percentage.
+Randall Carter,"We work in collaborative efforts, collaborative environments rather."
+Randall Carter,"And some do very well in the coding, some do very well in the building."
+Randall Carter,But collaboratively they are able to accomplish great things.
+Randall Carter,"So overall I think it's great, but I'm the best."
+Randall Carter,But mechanically.
+Randall Carter,My name is Randall Carter and I'm the executive director for Metrain Youth Through Technology.
+Randall Carter,You'll ask another.
+Randall Carter,Was there a question?
+Randall Carter,We provide Stem training in multiple areas.
+Randall Carter,We use Vex IQ and Vex VXP.
+Randall Carter,We currently love the products.
+Randall Carter,This is our first year teaching the products.
+Randall Carter,We've been doing Stem for the last nine years.
+Randall Carter,This is our first year using Vex and we're very excited to use the product.
+Robotics Coach,"All right, first off, I'm not a teacher."
+Robotics Coach,The only quote unquote teaching I do is I volunteer as a robotics coach for the Bel Air Public School system.
+Robotics Coach,"It started off six years ago with my son, joined a Vex robotics team, and I got involved as a mentor and coach and have been involved ever since."
+Robotics Coach,We use both Vexiq and VRC platforms.
+Robotics Coach,"We started off on the VRC side with the introduction of V Five, got in on that first season there."
+Robotics Coach,"And with me, I've got a background in it."
+Robotics Coach,"I've been in the It industry for 23, 24 years almost now."
+Robotics Coach,"So I've done software programming, I've done network infrastructure, servers, all that jazz."
+Robotics Coach,"My dad's an engineer by trade, building a submarine and all kinds of other stuff."
+Robotics Coach,So I know the mechanical side of it.
+Robotics Coach,So mentoring a robotics team just came really easy for me.
+Robotics Coach,"But here at the conference, trying to figure out how to use Vex outside of the Vex robotics competition to try and get more students involved with the competitive robotics side, hopefully, that answers the question."
+Robotics Coach,"All right, so my goals with Stem education, like I said in the previous answer, I'm here at the Educated Conference to try and learn myself how to best teach the skills required for the Vex competition side to the students that are coming into the competitive robotics with our school district."
+Robotics Coach,The teachers at the school aren't using Vex outside of one science teacher that started with the Vex program.
+Robotics Coach,So I'm also keeping my eyes and ears open for ideas and ways that we can expand the Vex program at the school to incorporate the students into the Vex platform at an earlier age.
+Robotics Coach,"So they're familiar with it, and they have a lot of the basic understandings how to program, how to assemble the Vex parts, that type of thing, before they even get into the competitive program with our school."
+Robotics Coach,"I feel if the like, the the PD Plus platform, I just recently learned about that, that I have access to it as a coach about two weeks ago."
+Robotics Coach,So I haven't really had a chance to get in there and see what all is available there.
+Robotics Coach,"But just so far, being in one session with the conference, seeing how other schools are using the Vex platform in the classroom outside of competitive robotics, having that information available that I can share back with the rest of the educators at the school district would be amazing."
+Robotics Coach,And then expanding on that.
+Robotics Coach,"One of the big problems that I see and hear from parents and other coaches on the competitive side is they don't know how to program, they don't know how to teach the robotics to their team."
+Robotics Coach,"So I've kind of been helping out with that, but I myself struggle with it."
+Robotics Coach,"So having more resources available to teach the non educators how to educate the basics of programming, how to educate the basics of mechanical engineering and iterative design would be super helpful and it would definitely be a toolkit in my bag of tricks to pass along to other coaches."
+Robotics Coach,"Okay, so yeah, yeah."
+Robotics Coach,"From the educator standpoint, like I said, I'm not an educator, so it's hard for me to answer that one."
+Robotics Coach,The one thing that I keep running into that would be a great resource from Vex is simply like a newsletter announcement for new products.
+Robotics Coach,"So as an excellent example, I'm here at World inspecting and I had no idea that five and six inch standoffs were now a valid Vex part."
+Robotics Coach,"Last time I looked at the standoffs on the store, I think the longest one was four inches until I saw one on a robot coming through inspection."
+Robotics Coach,"So having some sort of announcement saying, hey, these are the new products available that are competition legal for IQ or competition legal for VRC or Vexu."
+Robotics Coach,And being able to subscribe to those updates would be super helpful.
+Robotics Coach,"I think as far as what can be improved, additional communication to coaches."
+Robotics Coach,"For example, like I said earlier, I just found out about the PD plus access for coaches for registered teams about two weeks ago, which was two weeks before World."
+Robotics Coach,So really kind of useless as far as me being able to get in there and look at much before the end of the season.
+Robotics Coach,But it's something I'm definitely going to be looking at and utilizing going forward.
+Robotics Coach,It would have been nice to know about that a while ago.
+Robotics Coach,"So again, the newsletter being able to stay on top of all the latest and greatest announcements and also having a way to provide this type of feedback in the future."
+Robotics Coach,"I've had a couple of students come into the programming, into the robotics program, super excited and with one student in particular, it was just a bad experience."
+Robotics Coach,The state championship really turned them off to competitive robotics and I haven't seen him come back since.
+Robotics Coach,So having a way to really handle those sour experiences on the competitive side would definitely help out.
+Robotics Coach,"Again, I know this is educational educator focused, and I'm not an educator."
+Robotics Coach,I see it all the time.
+Robotics Coach,Referee making a bad call and the parents getting upset because there's no way for the parents to give feedback or anything like that.
+Robotics Coach,"Think that could be handled better from the competitive side, but not sure where best that feedback should go."
+Robotics Coach,Yeah.
